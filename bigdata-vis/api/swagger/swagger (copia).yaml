@@ -1,0 +1,769 @@
+swagger: "2.0"
+info:
+  version: "0.0.1"
+  title: Big Data Visualization API
+# during dev, should point to your local machine
+host: localhost:20183
+# basePath prefixes all resource paths 
+basePath: /
+# 
+schemes:
+  # tip: remove http to make production-grade
+  - http
+  - https
+# format of bodies a client can send (Content-Type)
+consumes:
+  - application/json
+# format of the responses to the client (Accepts)
+produces:
+  - application/json
+paths:
+  /datavis/about:
+    x-swagger-router-controller: about
+    get:
+      description: Returns information about developers and the app
+      operationId: about
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/AboutResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/files:
+    x-swagger-router-controller: files
+    get:
+      description: Returns a HDFS files list in the specified path
+      operationId: files
+      parameters:
+        - name: folder
+          in: query
+          description: The path to list files
+          required: false
+          type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/FilesResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/summary:
+    x-swagger-router-controller: summary
+    get:
+      description: Get informations about file selected
+      operationId: summary
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/SummaryResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/histogram:
+    x-swagger-router-controller: histogram
+    get:
+      description: Returns information about the requested histogram
+      operationId: histogram
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: col
+          in: query
+          description: The column selected for the histogram
+          required: true
+          type: string
+        - name: sections
+          in: query
+          description: Number of histogram bars
+          required: false
+          type: number
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/HistogramResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/boxplot:
+    x-swagger-router-controller: boxplot
+    get:
+      description: Returns information about the requested boxplot
+      operationId: boxplot
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: count
+          in: query
+          description: Number of column selected
+          required: true
+          type: number
+        - name: col
+          in: query
+          description: Array with column name selected
+          required: true
+          type: array
+          items:
+            type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/BoxplotResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/scatterplot:
+    x-swagger-router-controller: scatterplot
+    get:
+      description: Returns information about the requested scatterplot
+      operationId: scatterplot
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: colx
+          in: query
+          description: The column selected for the scatterplot
+          required: true
+          type: string
+        - name: coly
+          in: query
+          description: The column selected for the scatterplot
+          required: true
+          type: string
+        - name: secx
+          in: query
+          description: Number of sections to divide values for the x-axis
+          required: true
+          type: number
+        - name: secy
+          in: query
+          description: Number of sections to divide values for the y-axis
+          required: true
+          type: number
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/ScatterplotResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/heatmap:
+    x-swagger-router-controller: heatmap
+    get:
+      description: Returns information about the requested heatmap
+      operationId: heatmap
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: colx
+          in: query
+          description: The column selected for the heatmap
+          required: true
+          type: string
+        - name: coly
+          in: query
+          description: The column selected for the heatmap
+          required: true
+          type: string
+        - name: colCount
+          in: query
+          description: Column that count values
+          required: true
+          type: string
+        - name: opVal
+          in: query
+          description: Number of operation to apply [0-Sum, 1-Max, 2-Min]
+          required: true
+          type: number
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/HeatmapResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/bubblechart:
+    x-swagger-router-controller: bubblechart
+    get:
+      description: Returns information about the requested bubblechart
+      operationId: bubblechart
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: colx
+          in: query
+          description: The column selected for the bubblechart
+          required: true
+          type: string
+        - name: coly
+          in: query
+          description: The column selected for the bubblechart
+          required: true
+          type: string
+        - name: secx
+          in: query
+          description: Number of sections to divide values for the x-axis
+          required: true
+          type: number
+        - name: secy
+          in: query
+          description: Number of sections to divide values for the y-axis
+          required: true
+          type: number
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/BubblechartResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/scatterplotMatrix:
+    x-swagger-router-controller: scatterplotMatrix
+    get:
+      description: Returns information about the requested scatterplotMatrix
+      operationId: scatterplotMatrix
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: sec
+          in: query
+          description: Number of sections to divide values for the axis
+          required: true
+          type: number
+        - name: count
+          in: query
+          description: Number of column selected
+          required: true
+          type: number
+        - name: col
+          in: query
+          description: Array with column name selected
+          required: true
+          type: array
+          items:
+            type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/ScatterplotMatrixResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/piechart:
+    x-swagger-router-controller: piechart
+    get:
+      description: Returns information about the requested piechart
+      operationId: piechart
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: colSelected
+          in: query
+          description: The column selected for the piechart
+          required: true
+          type: string
+        - name: colCount
+          in: query
+          description: Column that count values
+          required: true
+          type: string
+        - name: opVal
+          in: query
+          description: Number of operation to apply [0-Count, 1-Sum, 2-Max, 3-Min]
+          required: true
+          type: number
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/PiechartResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/linechart:
+    x-swagger-router-controller: linechart
+    get:
+      description: Returns information about the requested linechart
+      operationId: linechart
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: sec
+          in: query
+          description: Number of sections to divide values for the axis
+          required: true
+          type: number
+        - name: colX
+          in: query
+          description: The column selected for the X-Axis
+          required: true
+          type: string
+        - name: count
+          in: query
+          description: Number of column selected
+          required: true
+          type: number
+        - name: col
+          in: query
+          description: Array with column name selected
+          required: true
+          type: array
+          items:
+            type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/LinechartResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/stackedAreaChart:
+    x-swagger-router-controller: stackedAreaChart
+    get:
+      description: Returns information about the requested stackedAreaChart
+      operationId: stackedAreaChart
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: sec
+          in: query
+          description: Number of sections to divide values for the axis
+          required: true
+          type: number
+        - name: colX
+          in: query
+          description: The column selected for the X-Axis
+          required: true
+          type: string
+        - name: count
+          in: query
+          description: Number of column selected
+          required: true
+          type: number
+        - name: col
+          in: query
+          description: Array with column name selected
+          required: true
+          type: array
+          items:
+            type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/StackedAreaChartResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /datavis/barchart:
+    x-swagger-router-controller: barchart
+    get:
+      description: Returns information about the requested barchart
+      operationId: barchart
+      parameters:
+        - name: file
+          in: query
+          description: Path to file
+          required: true
+          type: string
+        - name: colSelected
+          in: query
+          description: The column selected for the barchart
+          required: true
+          type: string
+        - name: colCount
+          in: query
+          description: Column that count values
+          required: true
+          type: string
+        - name: opVal
+          in: query
+          description: Number of operation to apply [0-Count, 1-Sum, 2-Max, 3-Min]
+          required: true
+          type: number
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/BarchartResponse"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /swagger:
+    x-swagger-pipe: swagger_raw
+
+# complex objects have schema definitions
+definitions:
+  AboutResponse:
+    required:
+      - title
+    properties:
+      title:
+        type: string
+      app_name:
+        type: string
+      app_description:
+        type: string
+      devel_author:
+        type: string
+      devel_department:
+        type: string
+      devel_supervisor:
+        type: string
+  FilesResponse:
+    properties:
+      FileStatuses:
+        type: object
+        properties:
+          FileStatus:
+            type: array
+            items:
+              type: object
+              properties:
+                accessTime:
+                  type: number
+                blockSize:
+                  type: number
+                childrenNum:
+                  type: number
+                fileId:
+                  type: number
+                group:
+                  type: string
+                length:
+                  type: number
+                modificationTime:
+                  type: number
+                owner:
+                  type: string
+                pathSuffix:
+                  type: string
+                permission:
+                  type: string
+                replication:
+                  type: number
+                storagePolicy:
+                  type: number
+                type:
+                  type: string
+  HistogramResponse:
+    properties:
+      _id:
+        type: string
+      values:
+        type: object
+        properties:
+          type:
+            type: string
+          segments:
+            type: array
+            items:
+              type: object
+              properties:
+                min:
+                  type: number
+                max:
+                  type: number
+                count:
+                  type: number
+  SummaryResponse:
+    properties:
+      _id:
+        type: string
+      values:
+        type: object
+        properties:
+          name:
+            type: string
+          path:
+            type: string
+          size:
+            type: number
+          numCols:
+            type: number
+          numRows:
+            type: number
+          nameCols:
+            type: array
+            items:
+              type: object
+              properties:
+                value:
+                  type: string
+  BoxplotResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      boxes:
+        type: array
+        items:
+          type: object
+          properties:
+            column:
+              type: string
+            values:
+              type: object
+              properties:
+                min:
+                  type: number
+                quartil1:
+                  type: number
+                median:
+                  type: number
+                quartil3:
+                  type: number
+                max:
+                  type: number
+                iqr:
+                  type: number
+  ScatterplotResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      titleX:
+        type: string
+      titleY:
+        type: string
+      values:
+        type: array
+        items:
+          type: object
+          properties:
+            pointX:
+              type: number
+            pointY:
+              type: number
+            value:
+              type: number
+            valueColor:
+              type: number
+  HeatmapResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      titleX:
+        type: string
+      titleY:
+        type: string
+      values:
+        type: array
+        items:
+          type: object
+          properties:
+            pointX:
+              type: string
+            pointY:
+              type: string
+            valueColor:
+              type: number
+  BubblechartResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      titleX:
+        type: string
+      titleY:
+        type: string
+      values:
+        type: array
+        items:
+          type: object
+          properties:
+            pointX:
+              type: number
+            pointY:
+              type: number
+            value:
+              type: number
+            valueColor:
+              type: number
+  ScatterplotMatrixResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      listAxis:
+        type: array
+        items:
+          type: object
+          properties:
+            titleX:
+              type: string
+            titleY:
+              type: string
+            posX:
+              type: number
+            posY:
+              type: number
+            values:
+              type: array
+              items:
+                type: object
+                properties:
+                  pointX:
+                    type: number
+                  pointY:
+                    type: number
+                  value:
+                    type: number
+  PiechartResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      colSelected:
+        type: string
+      colCount:
+        type: string
+      lvalues:
+        type: array
+        items:
+          type: object
+          properties:
+            colKey:
+              type: string
+            colValue:
+              type: number
+  LinechartResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      colX:
+        type: string
+      listLines:
+        type: array
+        items:
+          type: object
+          properties:
+            titleLine:
+              type: string
+            lvalues:
+              type: array
+              items:
+                type: object
+                properties:
+                  pointXMin:
+                    type: number
+                  pointXMax:
+                    type: number
+                  pointY:
+                    type: number
+  StackedAreaChartResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      colX:
+        type: string
+      listLines:
+        type: array
+        items:
+          type: object
+          properties:
+            titleLine:
+              type: string
+            lvalues:
+              type: array
+              items:
+                type: object
+                properties:
+                  pointXMin:
+                    type: number
+                  pointXMax:
+                    type: number
+                  pointY:
+                    type: number
+  BarchartResponse:
+    properties:
+      _id:
+        type: string
+      title:
+        type: string
+      colSelected:
+        type: string
+      colCount:
+        type: string
+      lvalues:
+        type: array
+        items:
+          type: object
+          properties:
+            colKey:
+              type: string
+            colValue:
+              type: number
+  ErrorResponse:
+    required:
+      - message
+    properties:
+      message:
+        type: string

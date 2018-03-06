@@ -1,0 +1,625 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+28 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Main$.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Main$delayedInit$body.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Main.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/ManageFiles$.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/ManageFiles.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$1.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$10.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$1.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$2.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$3.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$4.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$12.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$2.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$3.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$4.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$5.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$6.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$7.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$8.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$9.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$typecreator1$1.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Graphic$.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Graphic.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Values$.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Values.class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot.class
+binary dependencies:
+18 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+28 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Main$
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Main$delayedInit$body
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> ManageFiles$
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$1
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$10
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$11
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$11$$anonfun$apply$1
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$11$$anonfun$apply$2
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$11$$anonfun$apply$3
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$11$$anonfun$apply$4
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$12
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$2
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$3
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$4
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$5
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$6
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$7
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$8
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$anonfun$9
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$$typecreator1$1
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$Graphic
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$Graphic$
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$Values
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot$Values$
+used names:
+338 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> <init>
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> App
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Array
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> DataFrame
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Int
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> ManageFiles
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Object
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Predef
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> SQLContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Scatterplot
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> SparkConf
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> SparkContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> String
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> StringOps
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Unit
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> Window
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> apache
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> apply
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> args
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> augmentString
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> axisX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> axisY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> colorRan
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> computeScatterplotContinuous
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> conf
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> df
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> expressions
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> functions
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> idPlot
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> implicits
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> inputData
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> loadCSV
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> mongoCollection
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> mongoDatabase
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> mongoURL
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> org
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> package
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> result
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> saveJSONintoMONGO
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> sc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> scala
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> secX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> secY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> setAppName
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> spark
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> sql
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> sqlContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> stop
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> toInt
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> ->
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> <init>
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> <repeated>
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> A
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Any
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> AnyRef
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> B
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> ClassTag
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> D
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> DataFrame
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> DataFrameReader
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> DataFrameWriter
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Dataset
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Document
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Int
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Map
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> MongoSpark
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Nothing
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Object
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Predef
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> RDD
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Row
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> SQLContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Self
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Seq
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> SparkContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> String
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> T
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Tuple2
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> Unit
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> WriteConfig
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> _$7
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> apache
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> apply
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> archivo
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> bson
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> coalesce
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> collection
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> com
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> config
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> database
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> df
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> doc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> format
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> json
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> jsonData
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> load
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> materializeClassTag
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> mongodb
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> option
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> org
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> package
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> parallelize
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> parse
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> read
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> save
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> sc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> scala
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> spark
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> sql
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> sqlContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> uri
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> write
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> writeConfig
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> !=
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> $conforms
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> $m
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> $m$untyped
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> $typecreator1
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> $u
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> &&
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> *
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> +
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> -
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ->
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> /
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> <:<
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> <init>
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> <repeated>
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ==
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ?0
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> A
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> AbstractFunction4
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Any
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> AnyRef
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Array
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ArrayOps
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> B
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Boolean
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> CanBuildFrom
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Class
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ClassLoader
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ClassSymbol
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ClassTag
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Coll
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Column
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> DataFrame
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Dataset
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> DefaultFormats
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Document
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Double
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Encoder
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Function1
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Function2
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Graphic
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> IndexOutOfBoundsException
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Int
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Internal
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Iterator
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JArray
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JDouble
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JInt
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JObject
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JString
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JValue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JavaUniverse
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JsonAST
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JsonAssoc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JsonDSL
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> JsonListAssoc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> K
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> List
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ListBuffer
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> MatchError
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Mirror
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ModuleSymbol
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> None
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Nothing
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Number
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Object
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Ordering
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> PairRDDFunctions
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Predef
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Product
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> RDD
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ReificationSupportApi
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Row
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> SQLContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ScalaRunTime
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Scatterplot
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Serializable
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Singleton
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Some
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> SparkContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Statics
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> String
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Symbol
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> T
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> T0
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> T1
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> T2
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> T3
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> T4
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> That
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ThisType
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Traversable
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Tuple2
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Tuple4
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Type
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> TypeCreator
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> TypeRef
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> TypeSymbol
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> TypeTag
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> U
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Universe
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> V
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> Values
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> _$4
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> _$7
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> _1
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> _2
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> _hashCode
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> _toString
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> apache
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> apply
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> asInstanceOf
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> asModule
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> asType
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> auxl
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> axisX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> axisY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> b
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> bot
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> canBuildFrom
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> collect
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> collection
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> colorRan
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> colorRange
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> compact
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> delta
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> deltaColor
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> deltaX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> deltaY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> df
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> double2jvalue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> doubleHash
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> doubleValue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> eq
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> finalizeHash
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> first
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> funcionBloque
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> functions
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> getClass
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> getClassLoader
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> getValueColor
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> idPlot
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> immutable
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> implicits
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> int2jvalue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> intValue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> internal
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> isInstanceOf
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> java
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> jobject2assoc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> json
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> k
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> lang
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> liftweb
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> listValues
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> lvalues
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> map
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> materializeClassTag
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> materializeTypeTag
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> math
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> max
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> maxBy
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> maxX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> maxY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> min
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> minBy
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> minX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> minY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> mix
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> moduleClass
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> mutable
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ne
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> net
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> newProductEncoder
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> org
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> package
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> pair2Assoc
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> pair2jvalue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> pointX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> pointY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> rdd
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> rddToPairRDDFunctions
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> reduceByKey
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> refArrayOps
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> reflect
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> reificationSupport
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> render
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> res
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> runtime
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> runtimeMirror
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> scala
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> secX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> secY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> sections
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> sectionsX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> sectionsY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> select
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> seq2jvalue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> spark
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> sql
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> sqlContext
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> staticClass
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> staticPackage
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> string2jvalue
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> title
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> titleX
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> titleY
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> toDouble
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> toList
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> toString
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> toTypeConstructor
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> top
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> typedProductIterator
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> universe
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> v
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> value
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> valueColor
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> x
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ||
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> ~
+product stamps:
+28 items
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Main$.class -> lastModified(1504983808000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Main$delayedInit$body.class -> lastModified(1504983808000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Main.class -> lastModified(1504983807000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/ManageFiles$.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/ManageFiles.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$1.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$10.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$1.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$2.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$3.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11$$anonfun$apply$4.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$11.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$12.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$2.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$3.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$4.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$5.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$6.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$7.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$8.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$anonfun$9.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$$typecreator1$1.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Graphic$.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Graphic.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Values$.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot$Values.class -> lastModified(1501784522000)
+/home/adri/Escritorio/tfg/scatterplot/target/scala-2.11/classes/Scatterplot.class -> lastModified(1501784522000)
+source stamps:
+3 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> hash(47117d6762da8d74a7a675f824b78ef8244d823c)
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> hash(1741c43e01599145264376562d746bfd7ba91ce8)
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> hash(f8e7eb292380bbc7299be10e402e0f56bbad671f)
+binary stamps:
+9 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> lastModified(1454217877000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> lastModified(1473162977000)
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> lastModified(1455553232000)
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar -> lastModified(1424912474000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+9 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> net.liftweb.json.Implicits
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.Encoder
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext$
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.expressions.Window
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> com.mongodb.spark.config.WriteConfig
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> org.bson.Document
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.App
+/home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwn333XAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwp4y/dHQADW1vbmdvRGF0YWJhc2VzcQB+AAz248UGdAAGbm90aWZ5c3EAfgAMTk1HG3QABHdhaXRzcQB+AAyCVq5LdAAGaWRQbG90c3EAfgAMYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAyiAuv3dAAGZXF1YWxzc3EAfgAMi3ctCHQADGFzSW5zdGFuY2VPZnNxAH4ADPJ59Ax0AA5leGVjdXRpb25TdGFydHNxAH4ADFq/A6t0AAZyZXN1bHRzcQB+AAxIJtIodAAMc3luY2hyb25pemVkc3EAfgAMDpgwRnQAAnNjc3EAfgAMEvrNp3QADSRpc0luc3RhbmNlT2ZzcQB+AAx6c3O0dAAIbW9uZ29VUkxzcQB+AAyeLcqzdAAEbWFpbnNxAH4ADF0q7PN0AAlub3RpZnlBbGxzcQB+AAxnT9LQdAAEY29uZnNxAH4ADKiHcll0AAxpc0luc3RhbmNlT2ZzcQB+AAxNYnrRdAAFYXhpc1hzcQB+AAxFQDFhdAACPT1zcQB+AAwyEDTYdAAKc3FsQ29udGV4dHNxAH4ADDHYpZZ0AAVjbG9uZXNxAH4ADJ4p2CV0AAYkaW5pdCRzcQB+AAyPkYHOdAAFYXhpc1lzcQB+AAwcWUQedAACZGZzcQB+AAzTz3V7dAAETWFpbnNxAH4ADCnaold0AAh0b1N0cmluZ3NxAH4ADEEFGbB0AARhcmdzc3EAfgAMKN2sTXQAAiE9c3EAfgAM9o72unQACGdldENsYXNzc3EAfgAMZlt7UHQACGNvbG9yUmFuc3EAfgAMqN74GXQAD21vbmdvQ29sbGVjdGlvbnNxAH4ADNNLRrB0AAJuZXNxAH4ADKu6Acl0AARzZWNYc3EAfgAMcdDLm3QACWlucHV0RGF0YXNxAH4ADP/Rprx0AAJlcXNxAH4ADIAGohh0AARzZWNZc3EAfgAMEX93K3QAC2RlbGF5ZWRJbml0c3EAfgAMdYe8gnQAAiMjc3EAfgAMDOt+n3QACGZpbmFsaXplc3EAfgAM1PBKR3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgA/dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCAc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhXNxAH4AgHVxAH4AYgAAAABzcQB+AIB1cQB+AGIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGhxAH4AcXVxAH4AcgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AI94cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCEc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgB0AHEAfgApdXEAfgB2AAAAAHNxAH4AnHQABFVuaXRxAH4AonVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AI94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHl0AAVQbGFpbnEAfgBDc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCdWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCEc3EAfgCcdAAFQXJyYXlxAH4AonVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCcdAAGU3RyaW5nc3EAfgCgc3EAfgCjdXEAfgCmAAAAA3NxAH4AqHQABGphdmFzcQB+AKh0AARsYW5ncQB+AK1zcQB+AIB1cQB+AMQAAAAEc3EAfgCcdAADQXBwcQB+AKJzcQB+AJx0AAtEZWxheWVkSW5pdHEAfgCic3EAfgCcdAAGT2JqZWN0cQB+AMhzcQB+AJx0AANBbnlxAH4AonVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeaAZvwHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD8vaG9tZS9hZHJpL0VzY3JpdG9yaW8vdGZnL3NjYXR0ZXJwbG90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRHEX1nYtqNdKemdfgkt474JE2CPA==
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtcF6VAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtVaUV3QABm5vdGlmeXNxAH4ADDuC2Bp0AAR3YWl0c3EAfgAMXGWLanQADSRhc0luc3RhbmNlT2ZzcQB+AAwXDHVwdAALTWFuYWdlRmlsZXNzcQB+AAxjBaFNdAAGZXF1YWxzc3EAfgAM/AF53nQADGFzSW5zdGFuY2VPZnNxAH4ADO+SnWl0AAdzYXZlQ1NWc3EAfgAM08GTfXQADHN5bmNocm9uaXplZHNxAH4ADLdjCWx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMamvvtnQACHNhdmVKU09Oc3EAfgAMELSaiXQACGxvYWRKU09Oc3EAfgAMz2w3JHQACW5vdGlmeUFsbHNxAH4ADO6pNWR0AAxpc0luc3RhbmNlT2ZzcQB+AAyS+cpIdAACPT1zcQB+AAzzh+pmdAAFY2xvbmVzcQB+AAxS+Ti/dAAHbG9hZENTVnNxAH4ADIMYc1d0AAh0b1N0cmluZ3NxAH4ADFL+WBV0AAIhPXNxAH4ADNnGm8R0AAhnZXRDbGFzc3NxAH4ADNNnmN90AAJuZXNxAH4ADMZF/3d0ABFzYXZlSlNPTmludG9NT05HT3NxAH4ADOzIGFd0AAJlcXNxAH4ADLRQ4rV0AAIjI3NxAH4ADAlSVsl0AAhmaW5hbGl6ZXNxAH4ADLYdYul0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AFXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGVzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXEAfgBEAAAAAHNxAH4AYHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnNxAH4AcXQAA0FueXNxAH4AdXNxAH4AeHVxAH4AewAAAAJzcQB+AH10AAVzY2FsYXEAfgCEdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV2pVSNPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBdBxD4BWZFFJkN2Vi10a/17qRzo
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQHYIfwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAvc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqarMjHQABm5vdGlmeXNxAH4ADLH+QtR0AAd1bmFwcGx5c3EAfgAMfi8a8nQAB2N1cnJpZWRzcQB+AAw/J46+dAAEd2FpdHNxAH4ADBb3ZAd0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADLZ7IIB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMYWZErHQADHByb2R1Y3RBcml0eXNxAH4ADBmkAPN0AAZlcXVhbHNzcQB+AAz0Tk83dAAMYXNJbnN0YW5jZU9mc3EAfgAMWVGv3nQADHN5bmNocm9uaXplZHNxAH4ADGVO07R0ABxjb21wdXRlU2NhdHRlcnBsb3RDb250aW51b3Vzc3EAfgAMGtrpkHQAB2x2YWx1ZXNzcQB+AAzBXlAUdAANJGlzSW5zdGFuY2VPZnNxAH4ADP1EriJ0AAZ0dXBsZWRzcQB+AAxSwdaLdAAIY2FuRXF1YWxzcQB+AAxK/67vdAAGdGl0bGVYc3EAfgAMC8myM3QADmNvcHkkZGVmYXVsdCQ0c3EAfgAMchd423QABnBvaW50WXNxAH4ADA+77qp0AA1wcm9kdWN0UHJlZml4c3EAfgAMGoYIJXQAB0dyYXBoaWNzcQB+AAwHKIoZdAAJbm90aWZ5QWxsc3EAfgAMW6n6iHQAC1NjYXR0ZXJwbG90c3EAfgAMJnlB5XQADGlzSW5zdGFuY2VPZnNxAH4ADKjaRIF0AAZ0aXRsZVlzcQB+AAy0nWCbdAAGPGluaXQ+c3EAfgAMSrhzzXQABWFwcGx5c3EAfgAMMvwfU3QACnZhbHVlQ29sb3JzcQB+AAwnD7p2dAACPT1zcQB+AAzos8ptdAAFY2xvbmVzcQB+AAyBe5fedAAGJGluaXQkc3EAfgAMI2hw63QADmNvcHkkZGVmYXVsdCQzc3EAfgAM62/6anQABGNvcHlzcQB+AAxlafEudAAIdG9TdHJpbmdzcQB+AAwgkoR8dAACIT1zcQB+AAw+feJLdAAGVmFsdWVzc3EAfgAM81qy4nQACGdldENsYXNzc3EAfgAMYYOHYHQABXRpdGxlc3EAfgAM1N93SHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMBJYxg3QABnBvaW50WHNxAH4ADPkLHa50AAJuZXNxAH4ADNxr1st0AAV2YWx1ZXNxAH4ADLeeimF0AAJlcXNxAH4ADJwbqP90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxzNmDjdAACIyNzcQB+AAxeNSATdAAIZmluYWxpemVzcQB+AAzLH7NadAAOcHJvZHVjdEVsZW1lbnRzcQB+AAx5ZE60dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB1eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AdUwACWluaGVyaXRlZHEAfgB1TAAHcGFyZW50c3EAfgB1eHEAfgCRc3EAfgCMdXEAfgBwAAAAAHNxAH4AjHVxAH4AcAAAAABzcQB+AIx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKpzcQB+AJ10AANBbnlzcQB+AKFzcQB+AKR1cQB+AKcAAAACc3EAfgCpdAAFc2NhbGFxAH4AsHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdqVUjT3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD8vaG9tZS9hZHJpL0VzY3JpdG9yaW8vdGZnL3NjYXR0ZXJwbG90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT45+spI4C7xymb4Q5ALg9Wu61nHw==
+external apis:
+0 items
+source infos:
+3 items
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/ManageFiles.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/scatterplot/src/main/scala/Scatterplot.scala -> 
+AAAAAAAAAAA=
+compilations:
+90 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCAG1r91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCAKW6V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCAKl011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCAYzSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBK3SZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBK8o51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBZbgt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBa1uB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBd19V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBfqWV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBm2ix1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBu1MR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBwC5Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCBx9aV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCCbJFx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCCbOdZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCCb6cx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCEmXed1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCEy5TZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFOekZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFOkUx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFQi711cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFe1kV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFgM0B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFhj451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFjjsh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXCFlu9F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXDtCu5J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXDtC9RJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXDtSSbh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXDtofkV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXDv0UFJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGLKFDx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGMk3ct1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGM3n8B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGM8AGt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGM/8fV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGNA/Rd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGNHuBl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGNWE1d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGNgLz51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGN2O8J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGOEGEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGOKLDB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGPCIq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTKLNF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTLOL11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTMBHR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTM58J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTPqD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTUA311cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTVnuJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTWyy11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTXnMJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTaWP91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTavSN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTeB8F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTrLQ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGTvfSZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+59 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGT2/451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+60 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGT50kR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+61 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXGT8Z4V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+62 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG03/aN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+63 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG04V9F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1Bscd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1C0/l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1D/ol1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1Fn+h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+68 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1Gggh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+69 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1HOhN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+70 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1Lplt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+71 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1MqmN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+72 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1NU4J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+73 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1OqeV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+74 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1Qt0t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+75 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1So6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+76 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1V8rh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+77 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1WP1R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+78 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1XNIZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+79 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1YvC51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+80 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1j/QJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+81 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1mXFd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+82 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1uump1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+83 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG1yfDJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+84 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXG17K/d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+85 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMX2oM91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+86 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXMX2wkR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+87 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXTelSLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+88 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXalVI091cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+89 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmgGb8B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Vendor: WorldWide Conferencing, LLC
+Implementation-Title: Lift Json
+Implementation-Version: 2.6.3
+Implementation-Vendor-Id: net.liftweb
+Built-Time: 1454217836088
+Built-By: diego
+Specification-Vendor: WorldWide Conferencing, LLC
+Specification-Title: Lift Json
+Implementation-URL: http://www.liftweb.net
+Specification-Version: 2.6.3
+

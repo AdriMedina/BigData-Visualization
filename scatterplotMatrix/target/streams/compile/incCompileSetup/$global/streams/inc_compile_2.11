@@ -1,0 +1,586 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main$$anonfun$1.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main$.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main$delayedInit$body.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ManageFiles$.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ManageFiles.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$1.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$2.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$3.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$4.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$5.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$6.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$10.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$2.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$3.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$4.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$5.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$7.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$8.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$9.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$8.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$computeScatterplotMatrixContinuous$1$$anonfun$apply$1.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$computeScatterplotMatrixContinuous$1.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$typecreator1$1.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$AxisXY$.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$AxisXY.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Graphic$.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Graphic.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Values$.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Values.class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix.class
+binary dependencies:
+18 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Main$
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Main$$anonfun$1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Main$delayedInit$body
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> ManageFiles$
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$3
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$4
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$5
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$6
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$10
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$3
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$4
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$5
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$6
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$7
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$8
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$9
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$8
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$computeScatterplotMatrixContinuous$1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$anonfun$computeScatterplotMatrixContinuous$1$$anonfun$apply$1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$$typecreator1$1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$AxisXY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$AxisXY$
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$Graphic
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$Graphic$
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$Values
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix$Values$
+used names:
+360 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> +
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> -
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> <init>
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Any
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> App
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Array
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> DataFrame
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Function1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Inclusive
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Int
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> ManageFiles
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Nothing
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Object
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Predef
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Range
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> RichInt
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> SQLContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> ScatterplotMatrix
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> SparkConf
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> SparkContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> String
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> StringOps
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> U
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Unit
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> Window
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> apache
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> apply
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> args
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> augmentString
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> computeScatterplotMatrixContinuous
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> conf
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> df
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> expressions
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> foreach
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> functions
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> i
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> idPlot
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> implicits
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> inputData
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> intWrapper
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> loadCSV
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> mongoCollection
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> mongoDatabase
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> mongoURL
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> nameCols
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> numCol
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> org
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> package
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> result
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> saveJSONintoMONGO
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> sc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> scala
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> sec
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> setAppName
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> spark
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> sql
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> sqlContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> stop
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> to
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> toInt
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> update
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> ->
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> <init>
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> <repeated>
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> A
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Any
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> AnyRef
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> B
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> ClassTag
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> D
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> DataFrame
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> DataFrameReader
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> DataFrameWriter
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Dataset
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Document
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Int
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Map
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> MongoSpark
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Nothing
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Object
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Predef
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> RDD
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Row
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> SQLContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Self
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Seq
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> SparkContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> String
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> T
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Tuple2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> Unit
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> WriteConfig
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> _$7
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> apache
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> apply
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> archivo
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> bson
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> coalesce
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> collection
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> com
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> config
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> database
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> df
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> doc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> format
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> json
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> jsonData
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> load
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> materializeClassTag
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> mongodb
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> option
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> org
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> package
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> parallelize
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> parse
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> read
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> save
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> sc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> scala
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> spark
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> sql
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> sqlContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> uri
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> write
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> writeConfig
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> !=
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> $conforms
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> $m
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> $m$untyped
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> $typecreator1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> $u
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> &&
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> *
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> +
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> +=
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> -
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ->
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> /
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> <:<
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> <init>
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> <repeated>
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ==
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ?0
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> A
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> AbstractFunction2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> AbstractFunction3
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> AbstractFunction5
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Any
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> AnyRef
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Array
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ArrayOps
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> AxisXY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> B
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Boolean
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> CanBuildFrom
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Class
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ClassLoader
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ClassSymbol
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ClassTag
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Coll
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Column
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> DataFrame
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Dataset
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> DefaultFormats
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Document
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Double
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Encoder
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Function1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Function2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Graphic
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> IndexOutOfBoundsException
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> IndexedSeq
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Int
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Internal
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Iterator
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JArray
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JDouble
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JInt
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JObject
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JString
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JValue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JavaUniverse
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JsonAST
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JsonAssoc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JsonDSL
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> JsonListAssoc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> K
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> List
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ListBuffer
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> MatchError
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Mirror
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ModuleSymbol
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> None
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Nothing
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Number
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Object
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Ordering
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> PairRDDFunctions
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Predef
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Product
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> RDD
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Range
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ReificationSupportApi
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Row
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> SQLContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScalaRunTime
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ScatterplotMatrix
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Serializable
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Singleton
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Some
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> SparkContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Statics
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> String
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Symbol
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> T
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> T0
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> T1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> T2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> T3
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> T4
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> T5
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> That
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ThisType
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Traversable
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Tuple2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Tuple3
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Tuple5
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Type
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> TypeCreator
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> TypeRef
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> TypeSymbol
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> TypeTag
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> U
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Universe
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> V
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> Values
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> _$4
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> _$7
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> _1
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> _2
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> _hashCode
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> _toString
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> anyHash
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> apache
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> apply
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> asInstanceOf
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> asModule
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> asType
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> axisValues
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> axisX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> axisY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> b
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> canBuildFrom
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> collect
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> collection
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> compact
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> delta
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> deltaX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> deltaY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> df
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> double2jvalue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> doubleHash
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> doubleValue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> eq
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> finalizeHash
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> first
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> funcionBloque
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> functions
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> getClass
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> getClassLoader
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> getScatterplotValues
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> i
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> idPlot
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> immutable
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> implicits
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> indices
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> int2jvalue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> intValue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> internal
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> isInstanceOf
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> j
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> java
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> jobject2assoc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> json
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> k
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> la
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> lang
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> laxis
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> liftweb
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> listAxisXY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> listValues
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> lvalues
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> map
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> materializeClassTag
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> materializeTypeTag
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> math
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> max
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> maxX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> maxY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> min
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> minX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> minY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> mix
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> moduleClass
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> mutable
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> nameCols
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ne
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> net
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> newProductEncoder
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> org
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> package
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> pair2Assoc
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> pair2jvalue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> pointX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> pointY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> posX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> posY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> rdd
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> rddToPairRDDFunctions
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> reduceByKey
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> refArrayOps
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> reflect
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> reificationSupport
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> render
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> res
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> runtime
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> runtimeMirror
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> scala
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> sec
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> sections
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> sectionsX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> sectionsY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> select
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> seq2jvalue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> spark
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> sql
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> sqlContext
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> staticClass
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> staticPackage
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> string2jvalue
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> title
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> titleX
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> titleY
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> toDouble
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> toList
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> toString
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> toTypeConstructor
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> typedProductIterator
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> universe
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> v
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> value
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> x
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> y
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ||
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> ~
+product stamps:
+34 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main$$anonfun$1.class -> lastModified(1504983826000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main$.class -> lastModified(1504983826000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main$delayedInit$body.class -> lastModified(1504983826000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/Main.class -> lastModified(1504983826000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ManageFiles$.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ManageFiles.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$1.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$2.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$3.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$4.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$5.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$6.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$10.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$2.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$3.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$4.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$5.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$8.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6$$anonfun$apply$9.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7$$anonfun$apply$6.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$7.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$8.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$computeScatterplotMatrixContinuous$1$$anonfun$apply$1.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$anonfun$computeScatterplotMatrixContinuous$1.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$$typecreator1$1.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$AxisXY$.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$AxisXY.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Graphic$.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Graphic.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Values$.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix$Values.class -> lastModified(1502793927000)
+/home/adri/Escritorio/tfg/scatterplotMatrix/target/scala-2.11/classes/ScatterplotMatrix.class -> lastModified(1502793927000)
+source stamps:
+3 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> hash(23b15d70b8b92f826f5e502d9686773a6c8604bf)
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> hash(1741c43e01599145264376562d746bfd7ba91ce8)
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> hash(0a571e01953f0bc1c793122ac90a30f1f8e67f32)
+binary stamps:
+9 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> lastModified(1454217877000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> lastModified(1473162977000)
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> lastModified(1455553232000)
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar -> lastModified(1424912474000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+9 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> net.liftweb.json.JsonDSL
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.Encoder
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SQLContext
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> com.mongodb.spark.MongoSpark$
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> org.bson.Document
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.App
+/home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwA6yyyAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAnc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwp4y/dHQADW1vbmdvRGF0YWJhc2VzcQB+AAz248UGdAAGbm90aWZ5c3EAfgAMTk1HG3QABHdhaXRzcQB+AAyCVq5LdAAGaWRQbG90c3EAfgAMaHND+HQACG5hbWVDb2xzc3EAfgAMYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAyiAuv3dAAGZXF1YWxzc3EAfgAMi3ctCHQADGFzSW5zdGFuY2VPZnNxAH4ADPJ59Ax0AA5leGVjdXRpb25TdGFydHNxAH4ADFq/A6t0AAZyZXN1bHRzcQB+AAxIJtIodAAMc3luY2hyb25pemVkc3EAfgAMDpgwRnQAAnNjc3EAfgAMEvrNp3QADSRpc0luc3RhbmNlT2ZzcQB+AAx6c3O0dAAIbW9uZ29VUkxzcQB+AAytVMRjdAAGbnVtQ29sc3EAfgAMni3Ks3QABG1haW5zcQB+AAx91pe1dAABaXNxAH4ADF0q7PN0AAlub3RpZnlBbGxzcQB+AAxnT9LQdAAEY29uZnNxAH4ADNklbpR0AANzZWNzcQB+AAyoh3JZdAAMaXNJbnN0YW5jZU9mc3EAfgAMRUAxYXQAAj09c3EAfgAMMhA02HQACnNxbENvbnRleHRzcQB+AAwx2KWWdAAFY2xvbmVzcQB+AAyeKdgldAAGJGluaXQkc3EAfgAMHFlEHnQAAmRmc3EAfgAM0891e3QABE1haW5zcQB+AAwp2qJXdAAIdG9TdHJpbmdzcQB+AAxBBRmwdAAEYXJnc3NxAH4ADCjdrE10AAIhPXNxAH4ADPaO9rp0AAhnZXRDbGFzc3NxAH4ADKje+Bl0AA9tb25nb0NvbGxlY3Rpb25zcQB+AAzTS0awdAACbmVzcQB+AAxx0MubdAAJaW5wdXREYXRhc3EAfgAM/9GmvHQAAmVxc3EAfgAMEX93K3QAC2RlbGF5ZWRJbml0c3EAfgAMdYe8gnQAAiMjc3EAfgAMDOt+n3QACGZpbmFsaXplc3EAfgAM1PBKR3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBDdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB+c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4Ag3NxAH4AfnVxAH4AYAAAAABzcQB+AH51cQB+AGAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGZxAH4Ab3VxAH4AcAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AI14cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCCc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCnc3EAfgByAHEAfgAtdXEAfgB0AAAAAHNxAH4AmnQABFVuaXRxAH4AoHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AI14cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHd0AAVQbGFpbnEAfgBHc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCCc3EAfgCadAAFQXJyYXlxAH4AoHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCadAAGU3RyaW5nc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnQABGphdmFzcQB+AKZ0AARsYW5ncQB+AKtzcQB+AH51cQB+AMIAAAAEc3EAfgCadAADQXBwcQB+AKBzcQB+AJp0AAtEZWxheWVkSW5pdHEAfgCgc3EAfgCadAAGT2JqZWN0cQB+AMZzcQB+AJp0AANBbnlxAH4AoHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeaAa2b3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvaG9tZS9hZHJpL0VzY3JpdG9yaW8vdGZnL3NjYXR0ZXJwbG90TWF0cml4L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQjsV1wuLkvgm9eUC2Whnc6bIYEvw==
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtcF6VAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtVaUV3QABm5vdGlmeXNxAH4ADDuC2Bp0AAR3YWl0c3EAfgAMXGWLanQADSRhc0luc3RhbmNlT2ZzcQB+AAwXDHVwdAALTWFuYWdlRmlsZXNzcQB+AAxjBaFNdAAGZXF1YWxzc3EAfgAM/AF53nQADGFzSW5zdGFuY2VPZnNxAH4ADO+SnWl0AAdzYXZlQ1NWc3EAfgAM08GTfXQADHN5bmNocm9uaXplZHNxAH4ADLdjCWx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMamvvtnQACHNhdmVKU09Oc3EAfgAMELSaiXQACGxvYWRKU09Oc3EAfgAMz2w3JHQACW5vdGlmeUFsbHNxAH4ADO6pNWR0AAxpc0luc3RhbmNlT2ZzcQB+AAyS+cpIdAACPT1zcQB+AAzzh+pmdAAFY2xvbmVzcQB+AAxS+Ti/dAAHbG9hZENTVnNxAH4ADIMYc1d0AAh0b1N0cmluZ3NxAH4ADFL+WBV0AAIhPXNxAH4ADNnGm8R0AAhnZXRDbGFzc3NxAH4ADNNnmN90AAJuZXNxAH4ADMZF/3d0ABFzYXZlSlNPTmludG9NT05HT3NxAH4ADOzIGFd0AAJlcXNxAH4ADLRQ4rV0AAIjI3NxAH4ADAlSVsl0AAhmaW5hbGl6ZXNxAH4ADLYdYul0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AFXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGVzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXEAfgBEAAAAAHNxAH4AYHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnNxAH4AcXQAA0FueXNxAH4AdXNxAH4AeHVxAH4AewAAAAJzcQB+AH10AAVzY2FsYXEAfgCEdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3lf3yxdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBdBxD4BWZFFJkN2Vi10a/17qRzo
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpO+oVwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAzc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyAlV9HQABm5vdGlmeXNxAH4ADAV56tV0ACJjb21wdXRlU2NhdHRlcnBsb3RNYXRyaXhDb250aW51b3Vzc3EAfgAM9vTNynQAB3VuYXBwbHlzcQB+AAxj+M23dAAHY3VycmllZHNxAH4ADMpdAGx0AAR3YWl0c3EAfgAM2h0erHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMPmFNCnQADSRhc0luc3RhbmNlT2ZzcQB+AAxT1ZkBdAAOY29weSRkZWZhdWx0JDVzcQB+AAxQFjDydAAMcHJvZHVjdEFyaXR5c3EAfgAMcNw1NnQABmVxdWFsc3NxAH4ADGFT99h0AAxhc0luc3RhbmNlT2ZzcQB+AAwSpLRSdAAMc3luY2hyb25pemVkc3EAfgAMl6XLpnQAB2x2YWx1ZXNzcQB+AAyEB5KjdAANJGlzSW5zdGFuY2VPZnNxAH4ADKw6FmB0AAZ0dXBsZWRzcQB+AAyvZlI2dAAIY2FuRXF1YWxzcQB+AAwzQ2d2dAAGdGl0bGVYc3EAfgAMZjdADHQADmNvcHkkZGVmYXVsdCQ0c3EAfgAME4zE23QABnBvaW50WXNxAH4ADJNFQC10AA1wcm9kdWN0UHJlZml4c3EAfgAMfxxARnQAB0dyYXBoaWNzcQB+AAwka6C5dAAJbm90aWZ5QWxsc3EAfgAM914yenQADGlzSW5zdGFuY2VPZnNxAH4ADG8r2yJ0AAZ0aXRsZVlzcQB+AAx/Iho7dAAGPGluaXQ+c3EAfgAMpvGmpXQABWxheGlzc3EAfgAMKyEUFHQABWFwcGx5c3EAfgAMpBA6EXQAAj09c3EAfgAM2QXegXQABHBvc1lzcQB+AAwZDICtdAAFY2xvbmVzcQB+AAxhUqR+dAAGJGluaXQkc3EAfgAMNhV+jHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMlsq00HQABGNvcHlzcQB+AAyR/UVidAAIdG9TdHJpbmdzcQB+AAwGsmwadAAEcG9zWHNxAH4ADP81rlt0AAZBeGlzWFlzcQB+AAwVSyqfdAACIT1zcQB+AAz8NnqUdAAGVmFsdWVzc3EAfgAMSe9/nHQACGdldENsYXNzc3EAfgAMWXiavnQABXRpdGxlc3EAfgAMyyZN0XQADmNvcHkkZGVmYXVsdCQxc3EAfgAM9dR3qnQABnBvaW50WHNxAH4ADLcj0o10AAJuZXNxAH4ADFtKfEF0AAV2YWx1ZXNxAH4ADK4e9KN0AAJlcXNxAH4ADORm9qZ0ABFTY2F0dGVycGxvdE1hdHJpeHNxAH4ADB7cGQN0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyg81mYdAACIyNzcQB+AAxuSzMbdAAIZmluYWxpemVzcQB+AAzcvpfIdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwfvlNddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB9eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AfUwACWluaGVyaXRlZHEAfgB9TAAHcGFyZW50c3EAfgB9eHEAfgCZc3EAfgCUdXEAfgB4AAAAAHNxAH4AlHVxAH4AeAAAAABzcQB+AJR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALJzcQB+AKV0AANBbnlzcQB+AKlzcQB+AKx1cQB+AK8AAAACc3EAfgCxdAAFc2NhbGFxAH4AuHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd5X98sXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvaG9tZS9hZHJpL0VzY3JpdG9yaW8vdGZnL3NjYXR0ZXJwbG90TWF0cml4L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQKVx4BlT8LwceTEirJCjDx+OZ/Mg==
+external apis:
+0 items
+source infos:
+3 items
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ManageFiles.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/scatterplotMatrix/src/main/scala/ScatterplotMatrix.scala -> 
+AAAAAAAAAAA=
+compilations:
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeAcKa11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeAc8411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeAf2FF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeAgGwx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeTRDgZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeTRHDB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeTS3gh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeUd7Op1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeVCFvV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeV/fLF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmgGtm91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2FkcmkvRXNjcml0b3Jpby90Zmcvc2NhdHRlcnBsb3RNYXRyaXgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

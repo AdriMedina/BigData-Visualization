@@ -1,0 +1,589 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+46 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/Main$.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/Main$delayedInit$body.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/Main.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/ManageFiles$.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/ManageFiles.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$1.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$10.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$11.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$12.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$13.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$14.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$15.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$16.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$17.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$18.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$19.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$2.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$20.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$21.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$22.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$23.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$24.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$25.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$26.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$27$$anonfun$apply$1.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$27$$anonfun$apply$2.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$27.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$28.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$3.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$4.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$5.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$6.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$7.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$8.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$9.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator1$1.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator2$1.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator3$1.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator4$1.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator5$1.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Graphic$.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Graphic.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Values$.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Values.class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart.class
+binary dependencies:
+18 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+46 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Main$
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Main$delayedInit$body
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> ManageFiles$
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$10
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$11
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$12
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$13
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$14
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$15
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$16
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$17
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$18
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$19
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$20
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$21
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$22
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$23
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$24
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$25
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$26
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$27
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$27$$anonfun$apply$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$27$$anonfun$apply$2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$28
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$3
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$4
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$5
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$6
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$7
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$8
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$anonfun$9
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$typecreator1$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$typecreator2$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$typecreator3$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$typecreator4$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$$typecreator5$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$Graphic
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$Graphic$
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$Values
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart$Values$
+used names:
+332 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> <init>
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> App
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Array
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> DataFrame
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Int
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> ManageFiles
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Object
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> PieChart
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Predef
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> SQLContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> SparkConf
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> SparkContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> String
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> StringOps
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Unit
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> Window
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> apache
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> apply
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> args
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> augmentString
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> colCount
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> colSelected
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> computePieChartContinuous
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> conf
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> df
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> expressions
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> functions
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> idPlot
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> implicits
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> inputData
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> loadCSV
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> mongoCollection
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> mongoDatabase
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> mongoURL
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> op
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> org
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> package
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> result
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> saveJSONintoMONGO
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> sc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> scala
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> setAppName
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> spark
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> sql
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> sqlContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> stop
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> toInt
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> ->
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> <init>
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> <repeated>
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> A
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Any
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> AnyRef
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> B
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> ClassTag
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> D
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> DataFrame
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> DataFrameReader
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> DataFrameWriter
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Dataset
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Document
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Int
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Map
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> MongoSpark
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Nothing
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Object
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Predef
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> RDD
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Row
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> SQLContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Self
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Seq
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> SparkContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> String
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> T
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Tuple2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> Unit
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> WriteConfig
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> _$7
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> apache
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> apply
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> archivo
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> bson
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> coalesce
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> collection
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> com
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> config
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> database
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> df
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> doc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> format
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> json
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> jsonData
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> load
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> materializeClassTag
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> mongodb
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> option
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> org
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> package
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> parallelize
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> parse
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> read
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> save
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> sc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> scala
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> spark
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> sql
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> sqlContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> uri
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> write
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> writeConfig
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $conforms
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $m
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $m$untyped
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $typecreator1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $typecreator2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $typecreator3
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $typecreator4
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $typecreator5
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> $u
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> &&
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> +
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ->
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> <:<
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> <init>
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> <repeated>
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ==
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ?0
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> A
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> AbstractFunction2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> AbstractFunction4
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Any
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> AnyRef
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Array
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ArrayOps
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> B
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Boolean
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> CanBuildFrom
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Class
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ClassLoader
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ClassSymbol
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ClassTag
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Coll
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> DataFrame
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Dataset
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> DefaultFormats
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Document
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Double
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Encoder
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Function1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Function2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Graphic
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> IndexOutOfBoundsException
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Int
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Internal
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Iterator
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JArray
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JDouble
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JObject
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JString
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JValue
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JavaUniverse
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JsonAST
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JsonAssoc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JsonDSL
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> JsonListAssoc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> K
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> List
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ListBuffer
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Long
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Math
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Mirror
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ModuleSymbol
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Nil
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> None
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Nothing
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Number
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Object
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Ordering
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PairRDDFunctions
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> PieChart
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Predef
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Product
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> RDD
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ReificationSupportApi
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Row
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> SQLContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ScalaRunTime
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Serializable
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> SingleType
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Singleton
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Some
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> SparkContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Statics
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> String
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Symbol
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> T
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> T0
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> T1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> T2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> T3
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> T4
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> That
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ThisType
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Traversable
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Tuple2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Tuple4
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Type
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> TypeCreator
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> TypeRef
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> TypeSymbol
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> TypeTag
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> U
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Universe
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> V
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> Values
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> _$4
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> _$7
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> _1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> _2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> _hashCode
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> _toString
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> anyHash
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> apache
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> apply
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> asInstanceOf
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> asModule
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> asType
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> canBuildFrom
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> colCount
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> colKey
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> colSelected
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> colValue
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> collect
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> collection
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> compact
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> df
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> double2jvalue
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> doubleHash
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> doubleValue
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> eq
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> finalizeHash
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> functions
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> getClass
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> getClassLoader
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> idPlot
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> immutable
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> implicits
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> internal
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> isInstanceOf
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> java
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> jobject2assoc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> json
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> lang
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> liftweb
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> listValues
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> lv
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> lvalues
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> map
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> materializeClassTag
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> materializeTypeTag
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> math
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> max
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> min
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> mix
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> moduleClass
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> mutable
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> net
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> newProductEncoder
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> op
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> opVal
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> org
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> package
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> pair2Assoc
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> pair2jvalue
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> qual$1
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> qual$2
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> qual$3
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> qual$4
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> qual$5
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> rdd
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> rddToPairRDDFunctions
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> reduceByKey
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> refArrayOps
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> reflect
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> reificationSupport
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> render
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> res
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> runtime
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> runtimeMirror
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> scala
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> select
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> selectType
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> seq2jvalue
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> sortBy
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> spark
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> sql
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> sqlContext
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> staticClass
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> staticModule
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> staticPackage
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> string2jvalue
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> title
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> toDouble
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> toList
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> toString
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> toTypeConstructor
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> typedProductIterator
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> universe
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$16
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$17
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$18
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$19
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$20
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$21
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$22
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$23
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$24
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$25
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$26
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$27
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$28
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$29
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> x$30
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ||
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> ~
+product stamps:
+46 items
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/Main$.class -> lastModified(1504983762000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/Main$delayedInit$body.class -> lastModified(1504983762000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/Main.class -> lastModified(1504983762000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/ManageFiles$.class -> lastModified(1502867528000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/ManageFiles.class -> lastModified(1502867528000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$1.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$10.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$11.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$12.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$13.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$14.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$15.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$16.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$17.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$18.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$19.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$2.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$20.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$21.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$22.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$23.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$24.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$25.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$26.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$27$$anonfun$apply$1.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$27$$anonfun$apply$2.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$27.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$28.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$3.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$4.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$5.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$6.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$7.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$8.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$anonfun$9.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator1$1.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator2$1.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator3$1.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator4$1.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$$typecreator5$1.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Graphic$.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Graphic.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Values$.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart$Values.class -> lastModified(1503301778000)
+/home/adri/Escritorio/tfg/piechart/target/scala-2.11/classes/PieChart.class -> lastModified(1503301778000)
+source stamps:
+3 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> hash(d8e68f30b5ee181d0bc247a6fee645234f407ba9)
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> hash(1741c43e01599145264376562d746bfd7ba91ce8)
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> hash(6ffcf339c259d8919d0c498b06dfdfe6e4e99afc)
+binary stamps:
+9 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> lastModified(1454217877000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> lastModified(1473162977000)
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> lastModified(1455553232000)
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar -> lastModified(1424912474000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+9 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> net.liftweb.json.JsonDSL
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.Row
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkConf$
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SQLContext$
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> com.mongodb.spark.config.WriteConfig$
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> org.bson.Document
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.App
+/home/adri/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7BU2kAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwp4y/dHQADW1vbmdvRGF0YWJhc2VzcQB+AAz248UGdAAGbm90aWZ5c3EAfgAMTk1HG3QABHdhaXRzcQB+AAyCVq5LdAAGaWRQbG90c3EAfgAMYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAyiAuv3dAAGZXF1YWxzc3EAfgAMR1WHdnQAC2NvbFNlbGVjdGVkc3EAfgAMi3ctCHQADGFzSW5zdGFuY2VPZnNxAH4ADPJ59Ax0AA5leGVjdXRpb25TdGFydHNxAH4ADFq/A6t0AAZyZXN1bHRzcQB+AAxIJtIodAAMc3luY2hyb25pemVkc3EAfgAMDpgwRnQAAnNjc3EAfgAMEvrNp3QADSRpc0luc3RhbmNlT2ZzcQB+AAx6c3O0dAAIbW9uZ29VUkxzcQB+AAyraByGdAAIY29sQ291bnRzcQB+AAyeLcqzdAAEbWFpbnNxAH4ADF0q7PN0AAlub3RpZnlBbGxzcQB+AAxnT9LQdAAEY29uZnNxAH4ADKiHcll0AAxpc0luc3RhbmNlT2ZzcQB+AAxFQDFhdAACPT1zcQB+AAwyEDTYdAAKc3FsQ29udGV4dHNxAH4ADDHYpZZ0AAVjbG9uZXNxAH4ADJ4p2CV0AAYkaW5pdCRzcQB+AAwcWUQedAACZGZzcQB+AAzTz3V7dAAETWFpbnNxAH4ADCnaold0AAh0b1N0cmluZ3NxAH4ADEEFGbB0AARhcmdzc3EAfgAMKN2sTXQAAiE9c3EAfgAM9o72unQACGdldENsYXNzc3EAfgAMqN74GXQAD21vbmdvQ29sbGVjdGlvbnNxAH4ADNNLRrB0AAJuZXNxAH4ADHHQy5t0AAlpbnB1dERhdGFzcQB+AAz/0aa8dAACZXFzcQB+AAwRf3crdAALZGVsYXllZEluaXRzcQB+AAx1h7yCdAACIyNzcQB+AAwM636fdAAIZmluYWxpemVzcQB+AAzU8EpHdAAIaGFzaENvZGVzcQB+AAw9nHH7dAACb3BzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AD91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AY0wACWluaGVyaXRlZHEAfgBjTAAHcGFyZW50c3EAfgBjeHEAfgCBc3EAfgB8dXEAfgBeAAAAAHNxAH4AfHVxAH4AXgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AZHEAfgBtdXEAfgBuAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ai3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCAdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKVzcQB+AHAAcQB+AC11cQB+AHIAAAAAc3EAfgCYdAAEVW5pdHEAfgCedXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ai3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AdXQABVBsYWlucQB+AENzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIBzcQB+AJh0AAVBcnJheXEAfgCedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJh0AAZTdHJpbmdzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkdAAEamF2YXNxAH4ApHQABGxhbmdxAH4AqXNxAH4AfHVxAH4AwAAAAARzcQB+AJh0AANBcHBxAH4AnnNxAH4AmHQAC0RlbGF5ZWRJbml0cQB+AJ5zcQB+AJh0AAZPYmplY3RxAH4AxHNxAH4AmHQAA0FueXEAfgCedXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV5oBbxhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNjmjzC17hgdC8JHpv7mRSNPQHup
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtcF6VAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtVaUV3QABm5vdGlmeXNxAH4ADDuC2Bp0AAR3YWl0c3EAfgAMXGWLanQADSRhc0luc3RhbmNlT2ZzcQB+AAwXDHVwdAALTWFuYWdlRmlsZXNzcQB+AAxjBaFNdAAGZXF1YWxzc3EAfgAM/AF53nQADGFzSW5zdGFuY2VPZnNxAH4ADO+SnWl0AAdzYXZlQ1NWc3EAfgAM08GTfXQADHN5bmNocm9uaXplZHNxAH4ADLdjCWx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMamvvtnQACHNhdmVKU09Oc3EAfgAMELSaiXQACGxvYWRKU09Oc3EAfgAMz2w3JHQACW5vdGlmeUFsbHNxAH4ADO6pNWR0AAxpc0luc3RhbmNlT2ZzcQB+AAyS+cpIdAACPT1zcQB+AAzzh+pmdAAFY2xvbmVzcQB+AAxS+Ti/dAAHbG9hZENTVnNxAH4ADIMYc1d0AAh0b1N0cmluZ3NxAH4ADFL+WBV0AAIhPXNxAH4ADNnGm8R0AAhnZXRDbGFzc3NxAH4ADNNnmN90AAJuZXNxAH4ADMZF/3d0ABFzYXZlSlNPTmludG9NT05HT3NxAH4ADOzIGFd0AAJlcXNxAH4ADLRQ4rV0AAIjI3NxAH4ADAlSVsl0AAhmaW5hbGl6ZXNxAH4ADLYdYul0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AFXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGVzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXEAfgBEAAAAAHNxAH4AYHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnNxAH4AcXQAA0FueXNxAH4AdXNxAH4AeHVxAH4AewAAAAJzcQB+AH10AAVzY2FsYXEAfgCEdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3p4oledXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBdBxD4BWZFFJkN2Vi10a/17qRzo
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQZ+XRQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAtc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3d9//XQABm5vdGlmeXNxAH4ADC+5oeB0AAd1bmFwcGx5c3EAfgAM3w0HKXQAB2N1cnJpZWRzcQB+AAy6Bxu4dAAEd2FpdHNxAH4ADPxWRSB0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADEP9U1l0AA0kYXNJbnN0YW5jZU9mc3EAfgAMacSlU3QADHByb2R1Y3RBcml0eXNxAH4ADK7K5I90AAZlcXVhbHNzcQB+AAwgGiyQdAALY29sU2VsZWN0ZWRzcQB+AAwq5gMRdAAMYXNJbnN0YW5jZU9mc3EAfgAMr1nXBHQADHN5bmNocm9uaXplZHNxAH4ADKVTsm90AAdsdmFsdWVzc3EAfgAMTe1gf3QADSRpc0luc3RhbmNlT2ZzcQB+AAxsiJ4UdAAIY29sVmFsdWVzcQB+AAwnt9HvdAAGdHVwbGVkc3EAfgAMEcIPB3QACGNvbENvdW50c3EAfgAMB0LkpHQAGWNvbXB1dGVQaWVDaGFydENvbnRpbnVvdXNzcQB+AAybeBHWdAAIY2FuRXF1YWxzcQB+AAzPycCTdAAOY29weSRkZWZhdWx0JDRzcQB+AAxv7k/0dAANcHJvZHVjdFByZWZpeHNxAH4ADELDd8F0AAdHcmFwaGljc3EAfgAMoi7kE3QACW5vdGlmeUFsbHNxAH4ADJ4AEaF0AAxpc0luc3RhbmNlT2ZzcQB+AAxI6ilwdAAGPGluaXQ+c3EAfgAM8woT5HQABWFwcGx5c3EAfgAMfWiGx3QAAj09c3EAfgAMTHtbunQABWNsb25lc3EAfgAMKnn/PXQABiRpbml0JHNxAH4ADDGDrDN0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADHee7Zp0AARjb3B5c3EAfgAMC/Q3MHQACHRvU3RyaW5nc3EAfgAMDKp043QAAiE9c3EAfgAM70TnW3QABlZhbHVlc3NxAH4ADE3kFi50AAhnZXRDbGFzc3NxAH4ADC4B/F50AAV0aXRsZXNxAH4ADIh3ed10AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBFuJ7h0AAhQaWVDaGFydHNxAH4ADJcoIcB0AAZjb2xLZXlzcQB+AAyenhDddAACbmVzcQB+AAzs0Wo4dAACZXFzcQB+AAwvyVRBdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMOkJr4HQAAiMjc3EAfgAMKc97RXQACGZpbmFsaXplc3EAfgAMrexCVnQADnByb2R1Y3RFbGVtZW50c3EAfgAMhgDEHHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AcXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBXdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4AjXNxAH4AiHVxAH4AbAAAAABzcQB+AIh1cQB+AGwAAAAAc3EAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCMc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCldAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCmc3EAfgCZdAADQW55c3EAfgCdc3EAfgCgdXEAfgCjAAAAAnNxAH4ApXQABXNjYWxhcQB+AKx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXgPEpW51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L2hvbWUvYWRyaS9Fc2NyaXRvcmlvL3RmZy9waWVjaGFydC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUb/zzOcJZ2JGdDEmLBt/f5uTpmvw=
+external apis:
+0 items
+source infos:
+3 items
+/home/adri/Escritorio/tfg/piechart/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/piechart/src/main/scala/ManageFiles.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/piechart/src/main/scala/PieChart.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeazRyN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXenZepJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeniiV51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXen6qL51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXgPEpW51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmgFvGF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcGllY2hhcnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

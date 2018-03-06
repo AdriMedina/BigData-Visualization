@@ -1,0 +1,30 @@
+
+section {
+    overflow: auto;
+}
+section > div {
+    float: left;
+    padding: 4px;
+}
+
+section > div + div {
+    width: 50px;
+    text-align: center;
+}
+
+#listCharts {
+	height: 18em;
+    line-height: 2em;
+    padding: 0;
+    margin: 0;
+    overflow: scroll;
+    overflow-x: hidden;
+    
+}
+
+#btnListCharts:focus {
+	background: #35B18C;
+	color: white;
+}
+
+

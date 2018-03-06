@@ -1,0 +1,398 @@
+doctype html
+html(lang='en')
+  head
+    meta(http-equiv='Content-Type', content='text/html; charset=UTF-8')
+    // Meta, title, CSS, favicons, etc.
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title Big Data Visualization Tool
+    // Bootstrap
+    link(href='/stylesheets/bootstrap/dist/css/bootstrap.min.css', rel='stylesheet')
+    // Font Awesome
+    link(href='/stylesheets/font-awesome/css/font-awesome.min.css', rel='stylesheet')
+    // iCheck
+    link(href='/stylesheets/iCheck/skins/flat/green.css', rel='stylesheet')
+    // bootstrap-progressbar
+    link(href='/stylesheets/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css', rel='stylesheet')
+    // jVectorMap
+    link(href='/stylesheets/maps/jquery-jvectormap-2.0.3.css', rel='stylesheet')
+    // Datatables
+    //-link(href="/stylesheets/datatables.net/css/jquery.dataTables.min.css" rel="stylesheet")
+    //-link(href='/stylesheets/datatables.net-bs/css/dataTables.bootstrap.min.css', rel='stylesheet')
+    link(href='https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css', rel='stylesheet')
+    // Custom Theme Style
+    link(href='/stylesheets/custom.min.css', rel='stylesheet')
+    link(href='/stylesheets/style.css' rel='stylesheet')
+    link(href='/stylesheets/graphicsStyle.css' rel='stylesheet')
+  body.nav-md
+    .container.body
+      .main_container
+        .col-md-3.left_col
+          .left_col.scroll-view
+            .navbar.nav_title(style='border: 0;')
+              a.site_title(href='/')
+                i.fa.fa-pie-chart
+                span  Vis. Big Data
+            .clearfix
+            // menu profile quick info
+            .profile
+              .profile_pic
+                img.img-circle.profile_img(src='/images/img.jpg', alt='...')
+              .profile_info
+                span Welcome,
+                h2 Adrián Medina
+            // /menu profile quick info
+            br
+            // sidebar menu
+            #sidebar-menu.main_menu_side.hidden-print.main_menu
+              .menu_section
+                h3 General
+                ul.nav.side-menu
+                  li
+                    a(href='/')
+                      i.fa.fa-home
+                      |  Home 
+                  li
+                    a(href='/about')
+                      i.fa.fa-info-circle
+                      |  About 
+                  li
+                    a(href='/api-docs/')
+                      i.fa.fa-file-text
+                      |  Documentation
+            // /sidebar menu
+        // top navigation
+        .top_nav
+          .nav_menu
+            nav(role='navigation')
+              .nav.toggle
+                a#menu_toggle
+                  i.fa.fa-bars
+              ul.nav.navbar-nav.navbar-right
+                li
+                  a.user-profile.dropdown-toggle(href='javascript:;', data-toggle='dropdown', aria-expanded='false')
+                    img(src='/images/img.jpg', alt='')
+                    | Adrián Medina
+                    span.fa.fa-angle-down
+                  ul.dropdown-menu.dropdown-usermenu.pull-right
+                    li
+                      a(href='javascript:;') Profile
+                    li
+                      a(href='javascript:;') Settings
+                    li
+                      a(href='javascript:;') Help
+                    li
+                      a(href='javascript:;')
+                        i.fa.fa-sign-out.pull-right
+                        |  Log Out
+                li.dropdown(role='presentation')
+                  a.dropdown-toggle.info-number(href='javascript:;', data-toggle='dropdown', aria-expanded='false')
+                    i.fa.fa-list-ul
+                    span#numLC.badge.bg-green 0
+                  ul#menuLC.dropdown-menu.list-unstyled.msg_list(role='menu')
+                li
+                  a(href='javascript:;' onclick='deleteAllCharts();')
+                    i.fa.fa-trash
+
+        // /top navigation
+
+        // page content
+        .right_col(role='main')
+          block content
+        // /page content
+
+        // footer content
+        footer
+          .pull-right
+            | Big Data Visualization Tool by 
+            a(href='https://github.com/AdriMedina') Adrián Medina
+          .clearfix
+        // /footer content
+    // jQuery
+    script(src='/javascripts/jquery/dist/jquery.min.js')
+    // Bootstrap
+    script(src='/javascripts/bootstrap/dist/js/bootstrap.min.js')
+    // FastClick
+    script(src='/javascripts/fastclick/lib/fastclick.js')
+    // NProgress
+    script(src='/javascripts/nprogress/nprogress.js')
+    // bootstrap-progressbar
+    script(src='/javascripts/bootstrap-progressbar/bootstrap-progressbar.min.js')
+    // iCheck
+    script(src='/javascripts/iCheck/icheck.min.js')
+    // Datatables
+    //- script(src='/javascripts/datatables.net/js/jquery.dataTables.min.js')
+    //- script(src='/javascripts/datatables.net-bs/js/dataTables.bootstrap.min.js')
+    script(src='https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js')
+    // Custom Theme Scripts
+    script(src='/javascripts/custom.min.js')
+    // validator
+    script(src='/javascripts/validator/validator.min.js')
+    // Last charts
+    script(src='/javascripts/lastCharts.js')
+    // Show charts
+    script(src='/javascripts/showCharts.js')
+    script.
+      //- Display database files list
+      var listFilesTypes = ["csv", "CSV"];
+      function showDatabase(url){
+        $.get(url, function(dataHDFS){
+
+          $('#datatable-fixed-header').dataTable().fnClearTable();
+          $.extend(true, $.fn.dataTable.defaults, {
+            "bRetrieve": true,
+          });
+
+          var table = $('#datatable-fixed-header').DataTable();
+          var hdfsPath = url.split("/files")[1];
+
+          if(hdfsPath != "/" && hdfsPath != ""){
+            var dirUp = url.substring(0, url.lastIndexOf("/"));
+            if(dirUp == "/files"){
+              dirUp = dirUp + "/";
+            }
+            table.row.add( [
+                "<a href='javascript:;' onClick='showDatabase(\"" + dirUp + "\");'> ... </a>",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ] ).draw( false );
+          }
+          $.each(dataHDFS.FileStatuses.FileStatus, function(index, value){
+            if(value.type == 'DIRECTORY'){
+            var pathAux;
+              if(hdfsPath == "/"){
+                pathAux = ("/files").concat(hdfsPath,value.pathSuffix);
+              }else{
+                pathAux = ("/files").concat(hdfsPath,"/",value.pathSuffix);
+              }
+              table.row.add( [
+                "<a href='javascript:;' onClick='showDatabase(\"" + pathAux + "\");'>" + value.pathSuffix + "</a>",
+                value.type,
+                value.permission,
+                value.owner,
+                value.group
+              ] ).draw( false );
+            }else{
+              var pathAux = ("/summary?file=").concat(hdfsPath,"/",value.pathSuffix,"&sizeFile=",value.length);
+              var loadIcon = ('L').concat(index);
+              var finishIcon = ('F').concat(index);
+              
+              var pattern = /(?:\.([^.]+))?$/;
+              var fileExtension = pattern.exec(value.pathSuffix)[1]
+              
+              table.row.add( [
+                "<a href='javascript:;' onClick='showSummary(\"" + pathAux + "\", \"" + loadIcon + "\", \"" + finishIcon + "\", "+ value.length +", \"" + fileExtension + "\");'>" + value.pathSuffix + " <span><div id=\"" + loadIcon + "\" style='display:none'><i class='fa fa-spinner fa-spin fa-lg blue'></i></div><div id=\"" + finishIcon + "\" style='display:none'><i class='fa fa-check fa-lg green'></i></div></span></a>",
+                value.type,
+                value.permission,
+                value.owner,
+                value.group
+              ] ).draw( false );
+            }
+          });
+
+        });
+      };
+
+      //- Display summary of selected file
+      function showSummary(url, loadIcon, finishIcon, sizeFile, extensionType){
+
+        if(listFilesTypes.indexOf(extensionType) != -1 && sizeFile != 0){
+          var auxLoad = ('#').concat(loadIcon);
+          var auxFin = ('#').concat(finishIcon);
+          $(auxFin).css('display', 'none');
+          $(auxLoad).css('display', 'inline');
+
+          $.get(url, function(data){
+
+            $('#summaryPath').html(data.values.path);
+            $('#summaryNumRows').html(data.values.numRows);
+            $('#summaryNumCols').html(data.values.numCols);
+            $('#sizeBytes').html(sizeFile);
+
+            var auxSize=0;
+            if(data.values.size > 1099511627776){ auxSize = parseFloat(data.values.size / 1099511627776).toFixed(2); $('#summarySize').html(auxSize.toString().concat(' Terabytes')); }
+            else if(data.values.size > 1073741824){ auxSize = parseFloat(data.values.size / 1073741824).toFixed(2); $('#summarySize').html(auxSize.toString().concat(' Gigabytes'));}
+            else if(data.values.size > 1048576){ auxSize = parseFloat(data.values.size / 1048576).toFixed(2); $('#summarySize').html(auxSize.toString().concat(' Megabytes'));}
+            else if(data.values.size > 1024){ auxSize = parseFloat(data.values.size / 1024).toFixed(2); $('#summarySize').html(auxSize.toString().concat(' Kilobytes'));}
+            else { auxSize = parseFloat(data.values.size).toFixed(2); $('#summarySize').html(auxSize.toString().concat(' Bytes'));};
+
+            $('.fileSelected').html(data.values.path);
+            $('.colSelected').empty();
+            $.each(data.values.nameCols, function(index, item){
+              $('.colSelected').append("<option name=\"" + index + "\" value=\"" + item.value + "\" >" + item.value + "  (" + item.typeCol + ")" + "</option>");
+
+            });
+            
+            $('.typeColSelected option').prop('pattern', )
+
+            $(auxLoad).css('display', 'none');
+            $(auxFin).css('display', 'inline');
+
+            cleanRightValuesForm("#rightValues", "#countValues");
+            cleanRightValuesForm("#rightValuesScattMat", "#countValuesScattMat");
+            cleanRightValuesForm("#rightValuesLine", "#countValuesLine");
+            cleanRightValuesForm("#rightValuesStackedArea", "#countValuesStackedArea");
+          });
+        }else{
+          alert("File type not allowed or empty");
+        }
+      };
+
+      function selectAllRightValues(actionForm){
+        if(actionForm == "/boxplot" || actionForm == "/datavis/boxplot"){
+          $('#rightValues option').prop('selected', true);
+        }else if(actionForm == "/scatterplotMatrix" || actionForm == "/datavis/scatterplotMatrix"){
+          $('#rightValuesScattMat option').prop('selected', true);
+        }else if(actionForm == "/linechart" || actionForm == "/datavis/linechart"){
+          $('#rightValuesLine option').prop('selected', true);
+        }else if(actionForm == "/stackedAreaChart" || actionForm == "/datavis/stackedAreaChart"){
+          $('#rightValuesStackedArea option').prop('selected', true);
+        }
+      }
+
+
+      //- Display chart result
+      function submitForm(actionForm, idForm){
+        
+        $('#finishIconResult').css('display', 'none');
+        $('#loadIconResult').css('display', 'inline');
+
+        selectAllRightValues(actionForm);
+
+        var strUrl = actionForm;
+        strUrl = strUrl.concat('?', $(idForm).serialize(), "&sizeFile=", $('#sizeBytes').text());
+
+        var idChart = setLastChart(strUrl, actionForm, $(idForm).serialize());
+
+        $.get(strUrl, function(svgResult){
+
+          var titleChart = getChart(idChart);
+          insertChart(svgResult, titleChart.chart, titleChart.params);
+
+          $('#loadIconResult').css('display', 'none');
+          $('#finishIconResult').css('display', 'inline');
+
+          changeToFinish(idChart);
+
+        });
+      }
+
+      //- Display JSON data result
+      function submitJSONForm(actionForm, idForm){
+
+        $('#finishIconResult').css('display', 'none');
+        $('#loadIconResult').css('display', 'inline');
+
+        selectAllRightValues(actionForm);
+
+        var strUrl = actionForm;
+        strUrl = strUrl.concat('?', $(idForm).serialize(), "&sizeFile=", $('#sizeBytes').text());
+        $.get(strUrl, function(jsonResult){
+
+          var stringRes = "<pre id='showDataJSON'>"+ JSON.stringify(jsonResult, undefined, 2) +"</pre>"
+
+          insertChart(stringRes, capitalizeFirstLetter((actionForm.split("/")[2]).concat(" JSON data")).bold(), "");
+
+          $('#loadIconResult').css('display', 'none');
+          $('#finishIconResult').css('display', 'inline');
+        });
+      }
+
+      function manageSelectedColumn(leftValues, rightValues, btnLeft, btnRight, countValues){
+        $(countValues).val("0");
+        $(btnLeft).click(function () {
+          var selectedItem = $(rightValues + " option:selected");
+          $(leftValues).append(selectedItem); 
+          $(countValues).val($(rightValues + " > option").length);
+        });
+        $(btnRight).click(function () {
+          var selectedItem = $(leftValues + " option:selected");
+          $(rightValues).append(selectedItem);
+          $(countValues).val($(rightValues + " > option").length);
+        });
+      }
+
+      function cleanRightValuesForm(rightValues, countValues){
+        $(rightValues).empty();
+        $(countValues).val($(rightValues + " > option").length);
+      }
+
+      function returnRightValues(rightValues, countValues){
+        var selectedItem = $(rightValues + ' option').prop('selected', true);
+        $(leftValues).append(selectedItem); 
+        $(countValues).val($(rightValues + " > option").length);
+      }
+
+      $(document).ready(function() {
+          
+        //- Load Database FileSystem        
+        showDatabase("/files/");
+        $('#datatable').dataTable();
+        var table = $('#datatable-fixed-header').DataTable({
+          fixedHeader: true
+        });
+
+        //- Array with charts options
+        var listCharts = ['Histogram', 'BoxPlot', 'ScatterPlot', 'Heatmap', 'Bubble Chart', 'Scatterplot Matrix', 'Pie Chart', 'Line Chart', 'Stacked Area Chart', 'Bar Chart'];
+        $('#listCharts').empty();
+        $.each(listCharts, function(index, item){
+          $('#listCharts').append("<button id='btnListCharts' class='list-group-item panelControlBtn btn' data-id=\"" + (index+1) + "\">" + item + "</button>");
+        });
+
+        //- Allows you to switch between forms
+        var currentPanel = 1;
+        $('.panelControlBtn').on("click", function() {
+
+          $('#loadIconResult').css('display', 'none');
+          $('#finishIconResult').css('display', 'none');
+
+          var ID = $(this).attr('data-id');
+          if (ID != currentPanel) {
+            $(".panelChart").fadeOut(0, function() {
+              $("#panel" + ID).fadeIn(0);
+            });
+            currentPanel = ID;
+          }
+
+          returnRightValues("#rightValues", "#countValues");
+          returnRightValues("#rightValuesScattMat", "#countValuesScattMat");
+          returnRightValues("#rightValuesLine", "#countValuesLine");
+          returnRightValues("#rightValuesStackedArea", "#countValuesStackedArea");
+        });
+
+        //- Manages the selection of columns in the boxplot form
+        manageSelectedColumn("#leftValues", "#rightValues", "#btnLeft", "#btnRight", "#countValues");
+
+        //- Manages the selection of columns in the scatterplot matrix form
+        manageSelectedColumn("#leftValuesScattMat", "#rightValuesScattMat", "#btnLeftScattMat", "#btnRightScattMat", "#countValuesScattMat");
+
+        //- Manages the selection of columns in the scatterplot matrix form
+        manageSelectedColumn("#leftValuesLine", "#rightValuesLine", "#btnLeftLine", "#btnRightLine", "#countValuesLine");
+
+        //- Manages the selection of columns in the scatterplot matrix form
+        manageSelectedColumn("#leftValuesStackedArea", "#rightValuesStackedArea", "#btnLeftStackedArea", "#btnRightStackedArea", "#countValuesStackedArea");
+
+        //- Array with heatmap options
+        var operToHeatmap = ["Sum", "Max", "Min"];
+        $('.opHeatSelected').empty();
+        $.each(operToHeatmap, function(index, item){
+          $('.opHeatSelected').append("<option name=\"" + item + "\" value=\"" + index + "\" >" + item + "</option>");
+        });
+
+
+        //- Array with piechart options
+        var operToPiechart = ["Count", "Sum", "Max", "Min"];
+        $('.opPieSelected').empty();
+        $.each(operToPiechart, function(index, item){
+          $('.opPieSelected').append("<option name=\"" + item + "\" value=\"" + index + "\" >" + item + "</option>");
+        });
+
+      });
+
+      
+      
+    // /Datatables

@@ -1,0 +1,442 @@
+extends layout
+
+block content
+  div
+    .row
+      .col-md-12.col-sm-12.col-xs-12
+        .x_panel
+          .x_title
+            h2.green
+              i.fa.fa-list-alt
+              |  Database File System
+            .clearfix
+          .x_content
+            p.text-muted.font-13.m-b-30
+              | This table shows Database FileSystem in HDFS
+            table#datatable-fixed-header.table.table-striped.table-bordered
+              thead
+                tr
+                  th Name
+                  th Type
+                  th Permission
+                  th Owner
+                  th Group
+              tbody#tableHDFS
+            .tiles
+              .col-md-12.tile
+                span Path File
+                h2#summaryPath
+              .col-md-4.tile
+                span File Size
+                h2#summarySize
+                h2#sizeBytes(hidden)
+              .col-md-4.tile
+                span Columns Number
+                h2#summaryNumCols
+              .col-md-4.tile
+                span Rows Number
+                h2#summaryNumRows
+    .row
+      .col-md-12.col-sm-12.col-xs-12
+        .x_panel
+          .x_title
+            h2.green
+              i.fa.fa-cog
+              |  Graph options
+            .clearfix
+          .x_content
+            .col-md-3.col-sm-12.col-xs-12
+              div
+                .x_title
+                  h2 Graphics List
+                  .clearfix
+                .x_content
+                  ul#listCharts.list-group
+            .col-md-9.col-sm-12.col-xs-12
+              div
+                .x_title
+                  h2 Filter
+                  .clearfix
+                .x_content
+                  div#panelContainer
+                    //- Histogram form
+                    div.panelChart#panel1
+                      form.form-horizontal.form-label-left#formHist(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="col" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | Sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='sections' required='required', type='number', min="1", max="30")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawHistBtn' value="Draw Chart" onclick="submitForm('/histogram', '#formHist');")
+                            input.btn.btn-info(type='button' id='dataHistBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/histogram', '#formHist');")
+
+                    //- Boxplot form
+                    div.panelChart#panel2(style="display:none")
+                      form.form-horizontal.form-label-left#formBox(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Columns 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            section#sectionColumns
+                              div
+                                select#leftValues.colSelected(size="6" multiple)
+                              div
+                                input#btnRight.btn.btn-info(type="button" value=">>")
+                                input#btnLeft.btn.btn-info(type="button" value="<<")
+                              div
+                                select#rightValues(name="col[]" size="6" multiple required='required')
+                                small  Must be Numeric type
+                                div
+                                  input#countValues(type="text" name="count" readonly size="5")
+                              
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawBoxBtn' value="Draw Chart" onclick="submitForm('/boxplot', '#formBox');")
+                            input.btn.btn-info(type='button' id='dataBoxBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/boxplot', '#formBox');")
+
+                    //- Scatterplot form
+                    div.panelChart#panel3(style="display:none")
+                      form.form-horizontal.form-label-left#formScatt(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | X-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colx" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Y-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="coly" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | X-Axis sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='secx' required='required', type='number', min="1", max="200")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | Y-Axis sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='secy' required='required', type='number', min="1", max="200")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawScattBtn' value="Draw Chart" onclick="submitForm('/scatterplot', '#formScatt');")
+                            input.btn.btn-info(type='button' id='dataScattBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/scatterplot', '#formScatt');")
+
+                    //- Heatmap form
+                    div.panelChart#panel4(style="display:none")
+                      form.form-horizontal.form-label-left#formHeat(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | X-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colx" required='required')
+                            small  Must be String type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Y-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="coly" required='required')
+                            small  Must be String type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column for op. 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colCount" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Op. to apply 
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.opHeatSelected.selectpicker(data-style="btn-info" name="opVal")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawHeatBtn' value="Draw Chart" onclick="submitForm('/heatmap', '#formHeat');")
+                            input.btn.btn-info(type='button' id='dataHeatBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/heatmap', '#formHeat');")
+
+                    //- Bubblechart form
+                    div.panelChart#panel5(style="display:none")
+                      form.form-horizontal.form-label-left#formBubble(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | X-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colx" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Y-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="coly" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | X-Axis sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='secx' required='required', type='number', min="2", max="15")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | Y-Axis sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='secy' required='required', type='number', min="2", max="15")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawBubbleBtn' value="Draw Chart" onclick="submitForm('/bubblechart', '#formBubble');")
+                            input.btn.btn-info(type='button' id='dataBubbleBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/bubblechart', '#formBubble');")
+
+                    //- Scatterplot Matrix form
+                    div.panelChart#panel6(style="display:none")
+                      form.form-horizontal.form-label-left#formScattMat(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | Axis sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='sec' required='required', type='number', min="1", max="200")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Columns 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            section#sectionColumnsScattMat
+                              div
+                                select#leftValuesScattMat.colSelected(size="6" multiple)
+                              div
+                                input#btnRightScattMat.btn.btn-info(type="button" value=">>")
+                                input#btnLeftScattMat.btn.btn-info(type="button" value="<<")
+                              div
+                                select#rightValuesScattMat(name="col[]" size="6" multiple required='required')
+                                small  Must be Numeric type
+                                div
+                                  input#countValuesScattMat(type="text" name="count" readonly size="5")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawScattMatBtn' value="Draw Chart" onclick="submitForm('/scatterplotMatrix', '#formScattMat');")
+                            input.btn.btn-info(type='button' id='dataScattMatBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/scatterplotMatrix', '#formScattMat');")
+
+                    //- Piechart form
+                    div.panelChart#panel7(style="display:none")
+                      form.form-horizontal.form-label-left#formPie(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column key 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colSelected" required='required')
+                            small  Must be Numeric or String type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column for op. 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colCount" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Op. to apply 
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.opPieSelected.selectpicker(data-style="btn-info" name="opVal")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawPieBtn' value="Draw Chart" onclick="submitForm('/piechart', '#formPie');")
+                            input.btn.btn-info(type='button' id='dataPieBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/piechart', '#formPie');")
+
+                    //- Linechart form
+                    div.panelChart#panel8(style="display:none")
+                      form.form-horizontal.form-label-left#formLine(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | Axis sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='sec' required='required', type='number', min="1", max="200")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column for X-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colX" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Columns 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            section#sectionColumnsLine
+                              div
+                                select#leftValuesLine.colSelected(size="6" multiple)
+                              div
+                                input#btnRightLine.btn.btn-info(type="button" value=">>")
+                                input#btnLeftLine.btn.btn-info(type="button" value="<<")
+                              div
+                                select#rightValuesLine(name="col[]" size="6" multiple required='required')
+                                small  Must be Numeric type
+                                div
+                                  input#countValuesLine(type="text" name="count" readonly size="5")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawLineBtn' value="Draw Chart" onclick="submitForm('/linechart', '#formLine');")
+                            input.btn.btn-info(type='button' id='dataLineBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/linechart', '#formLine');")
+
+                    //- StackedAreaChart form
+                    div.panelChart#panel9(style="display:none")
+                      form.form-horizontal.form-label-left#formStackedArea(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectSection')
+                            | Axis sections 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            input.selectSection.form-control.col-md-7.col-xs-12(name='sec' required='required', type='number', min="1", max="200")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column for X-Axis 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colX" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Columns 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            section#sectionColumnsStackedArea
+                              div
+                                select#leftValuesStackedArea.colSelected(size="6" multiple)
+                              div
+                                input#btnRightStackedArea.btn.btn-info(type="button" value=">>")
+                                input#btnLeftStackedArea.btn.btn-info(type="button" value="<<")
+                              div
+                                select#rightValuesStackedArea(name="col[]" size="6" multiple required='required')
+                                small  Must be Numeric type
+                                div
+                                  input#countValuesStackedArea(type="text" name="count" readonly size="5")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawStackedAreaBtn' value="Draw Chart" onclick="submitForm('/stackedAreaChart', '#formStackedArea');")
+                            input.btn.btn-info(type='button' id='dataStackedAreaBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/stackedAreaChart', '#formStackedArea');")
+
+                    //- Barchart form
+                    div.panelChart#panel10(style="display:none")
+                      form.form-horizontal.form-label-left#formBar(action="#" method="get")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='fileSelected')
+                            | File selected 
+                          .col-md-6.col-sm-6.col-xs-12
+                            textarea.fileSelected.form-control.col-md-7.col-xs-12(readonly=true name="file")
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column key 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colSelected" required='required')
+                            small  Must be Numeric or String type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Column for op. 
+                            span.required *
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.colSelected.selectpicker(data-style="btn-info" name="colCount" required='required')
+                            small  Must be Numeric type
+                        .item.form-group
+                          label.control-label.col-md-3.col-sm-3.col-xs-12(for='selectColumn')
+                            | Op. to apply 
+                          .col-md-6.col-sm-6.col-xs-12
+                            select.opPieSelected.selectpicker(data-style="btn-info" name="opVal")
+                        .ln_solid
+                        .form-group
+                          .col-md-6.col-md-offset-3
+                            input.btn.btn-success(type='button' id='drawBarBtn' value="Draw Chart" onclick="submitForm('/barchart', '#formBar');")
+                            input.btn.btn-info(type='button' id='dataBarBtn' value="Display JSON Data" onclick="submitJSONForm('/datavis/barchart', '#formBar');")
+
+                    .col-md-6.col-md-offset-3
+                      span
+                        div#loadIconResult(style='display:none')
+                          i.fa.fa-spinner.fa-spin.fa-2x.blue
+                        div#finishIconResult(style='display:none')
+                          i.fa.fa-check.fa-2x.green
+    .row
+      .col-md-12.col-sm-12.col-xs-12
+        .x_panel
+          .x_title
+            h2.green
+              i.fa.fa-line-chart
+              |  Charts presentation
+            .clearfix
+          .x_content#panelChartRes

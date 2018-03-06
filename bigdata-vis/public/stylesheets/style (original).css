@@ -1,0 +1,64 @@
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+#section_web {
+	margin-bottom: 200px;
+}
+
+#formChart label {
+	vertical-align: top;
+	margin-right: 10px;
+}
+
+#formChart textarea{
+  width: 350px;
+  height: 30px;
+}
+
+#drawChartBtn {
+	float: right;
+}
+
+#sectionColumns {
+	width: auto;
+}
+
+select, input[type="text"] {
+    width: 160px;
+    box-sizing: border-box;
+}
+section {
+    padding: 8px;
+    background-color: #f0f0f0;
+    overflow: auto;
+}
+section > div {
+    float: left;
+    padding: 4px;
+}
+
+section > div + div {
+    width: 40px;
+    text-align: center;
+}
+
+/*#panel-body.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: top;
+    overflow: hidden;
+}
+#panel-body.svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+}*/

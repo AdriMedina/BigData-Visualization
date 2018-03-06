@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: org.mongodb.spark
+Implementation-Title: mongo-spark-connector
+Spark-HasRPackage: false
+Implementation-Version: 1.1.0
+Implementation-Vendor-Id: org.mongodb.spark
+Specification-Vendor: org.mongodb.spark
+Specification-Title: mongo-spark-connector
+Specification-Version: 1.1.0
+

@@ -1,0 +1,31 @@
+extends layout
+
+block content
+  div
+    .page-title
+      .title_left
+        h3
+          | Project and Developers 
+    .clearfix
+      .row
+        .col-md-12
+          .x_panel
+            .x_content
+              .col-md-12.col-sm-12.col-xs-12
+                section.panel
+                  .panel-body
+                    h3.green
+                      | #{app_name}
+                    p
+                      | #{app_description}
+                    br
+                    .project_detail
+                      p.title Main Developer
+                      p #{devel_author}
+                      p.title Project Supervisors
+                      p #{devel_supervisor}
+                      p.title Project Department
+                      p #{devel_department}
+                    //br
+                    //.text-center.mtop20
+                      a.btn.btn-sm.btn-warning(href='#') Support Contact

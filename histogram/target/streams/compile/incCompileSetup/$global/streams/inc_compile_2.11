@@ -1,0 +1,431 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$1.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$2.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3$$anonfun$apply$1.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3$$anonfun$apply$2.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3$$anonfun$apply$3.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$4.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$computeHistogramContinuous$1.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Segments$.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Segments.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Values$.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Values.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Main$.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Main$delayedInit$body.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Main.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/ManageFiles$.class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/ManageFiles.class
+binary dependencies:
+16 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> /home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$1
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$2
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$3
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$3$$anonfun$apply$1
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$3$$anonfun$apply$2
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$3$$anonfun$apply$3
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$4
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$$anonfun$computeHistogramContinuous$1
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$Segments
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$Segments$
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$Values
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram$Values$
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Main$
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Main$delayedInit$body
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> ManageFiles$
+used names:
+257 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> $conforms
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> &&
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> +
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> +=
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> -
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> ->
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> /
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> <
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> <:<
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> <=
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> <init>
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> <repeated>
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> ==
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> >=
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> A
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> AbstractFunction1
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> AbstractFunction3
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Any
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> AnyRef
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> B
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Boolean
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> CanBuildFrom
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Coll
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Column
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> DataFrame
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Dataset
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> DefaultFormats
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Document
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Double
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Function1
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Histogram
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Inclusive
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> IndexOutOfBoundsException
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Int
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Iterator
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JArray
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JDouble
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JInt
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JObject
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JString
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JValue
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JsonAST
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JsonAssoc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JsonDSL
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> JsonListAssoc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> List
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> ListBuffer
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Long
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Nil
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> None
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Nothing
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Number
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Object
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Predef
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Product
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Range
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> RichInt
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Row
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> ScalaRunTime
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Segments
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Serializable
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Some
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Statics
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> String
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> T
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> T0
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> T1
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> T2
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> T3
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> That
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Traversable
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Tuple2
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Tuple3
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> U
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Unit
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> Values
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> _hashCode
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> _toString
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> apache
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> apply
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> asInstanceOf
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> canBuildFrom
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> chart
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> colName
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> collection
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> compact
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> count
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> df
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> double2jvalue
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> doubleHash
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> doubleValue
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> endInterval
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> eq
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> filter
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> finalizeHash
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> first
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> foreach
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> functions
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> i
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> idPlot
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> immutable
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> initInterval
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> intWrapper
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> interval
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> intervalNum
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> intervals
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> intervals_=
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> isInstanceOf
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> java
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> jobject2assoc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> json
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> lang
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> liftweb
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> listSeg
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> long2jvalue
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> longHash
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> map
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> max
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> maximum
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> min
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> minimum
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> mix
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> mutable
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> net
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> numCol
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> org
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> package
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> pair2Assoc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> pair2jvalue
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> render
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> res
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> runtime
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> s
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> scala
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> select
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> seq2jvalue
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> spark
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> sql
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> string2jvalue
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> to
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> toList
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> toString
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> typedProductIterator
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> ||
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> ~
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> <init>
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> App
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Array
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> DataFrame
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Histogram
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Int
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Main
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> ManageFiles
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Object
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Predef
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> SQLContext
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> SparkConf
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> SparkContext
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> String
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> StringOps
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Unit
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> Window
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> apache
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> apply
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> args
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> augmentString
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> colName
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> computeHistogramContinuous
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> conf
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> df
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> expressions
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> functions
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> idPlot
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> implicits
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> inputData
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> intervalNum
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> loadCSV
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> org
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> package
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> result
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> saveJSONintoMONGO
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> sc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> scala
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> setAppName
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> spark
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> sql
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> sqlContext
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> stop
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> toInt
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> ->
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> <init>
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> <repeated>
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> A
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Any
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> AnyRef
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> ArrowAssoc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> B
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Class
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> ClassTag
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> D
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> DataFrame
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> DataFrameReader
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> DataFrameWriter
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Dataset
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Document
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Int
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> ManageFiles
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Map
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> MongoSpark
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Nothing
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Object
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Predef
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> RDD
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Row
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> SQLContext
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Self
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Seq
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> SparkContext
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> String
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> T
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Tuple2
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> Unit
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> WriteConfig
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> _$7
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> apache
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> apply
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> archivo
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> bson
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> coalesce
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> collection
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> com
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> config
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> database
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> df
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> doc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> format
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> json
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> jsonData
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> load
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> materializeClassTag
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> mongodb
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> option
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> org
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> package
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> parallelize
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> parse
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> read
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> save
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> sc
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> scala
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> spark
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> sql
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> sqlContext
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> uri
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> write
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> writeConfig
+product stamps:
+19 items
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$1.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$2.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3$$anonfun$apply$1.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3$$anonfun$apply$2.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3$$anonfun$apply$3.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$3.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$4.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$$anonfun$computeHistogramContinuous$1.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Segments$.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Segments.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Values$.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram$Values.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Histogram.class -> lastModified(1504983705000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Main$.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Main$delayedInit$body.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/Main.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/ManageFiles$.class -> lastModified(1504983706000)
+/home/adri/Escritorio/tfg/histogram/target/scala-2.11/classes/ManageFiles.class -> lastModified(1504983706000)
+source stamps:
+3 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> hash(8722e26a980237171f7c0d38d00d04f593217eae)
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> hash(d10c16c4a98b37c095a2e50bc304048d72a017c0)
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> hash(1741c43e01599145264376562d746bfd7ba91ce8)
+binary stamps:
+8 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> lastModified(1454217877000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.0.jar -> lastModified(1468969882000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar -> lastModified(1468970091000)
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> lastModified(1473162977000)
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> lastModified(1455553232000)
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+8 items
+/home/adri/.ivy2/cache/net.liftweb/lift-json_2.11/jars/lift-json_2.11-2.6.3.jar -> net.liftweb.json.JsonAST$
+/home/adri/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.0.jar -> org.apache.spark.sql.Row
+/home/adri/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkContext$
+/home/adri/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar -> org.apache.spark.sql.DataFrameReader
+/home/adri/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-1.1.0.jar -> com.mongodb.spark.config.MongoCompanionConfig
+/home/adri/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> org.bson.Document
+/home/adri/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Int
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7xLDAwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAtc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2WuioXQABm5vdGlmeXNxAH4ADFtj32t0AAd1bmFwcGx5c3EAfgAMA/9m8XQAB2N1cnJpZWRzcQB+AAwAUkdcdAAFY291bnRzcQB+AAy/Nvm6dAAEd2FpdHNxAH4ADAM9aiV0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADG+nHf50AA0kYXNJbnN0YW5jZU9mc3EAfgAMLkllFHQACUhpc3RvZ3JhbXNxAH4ADDTVBPJ0AAdjb21wb3Nlc3EAfgAMb1XuinQADHByb2R1Y3RBcml0eXNxAH4ADAyIsTR0AAZlcXVhbHNzcQB+AAyCRDtHdAAJaW50ZXJ2YWxzc3EAfgAMRznCCnQADGFzSW5zdGFuY2VPZnNxAH4ADEmoaIZ0ABpjb21wdXRlSGlzdG9ncmFtQ29udGludW91c3NxAH4ADBnwiwh0AAxzeW5jaHJvbml6ZWRzcQB+AAwbJ89AdAANJGlzSW5zdGFuY2VPZnNxAH4ADKAkVXt0AAdhbmRUaGVuc3EAfgAMTIi5eHQABnR1cGxlZHNxAH4ADJRAiEx0AANtaW5zcQB+AAwpUv9CdAAIY2FuRXF1YWxzcQB+AAyj3pgZdAANcHJvZHVjdFByZWZpeHNxAH4ADDSV5DF0AAlub3RpZnlBbGxzcQB+AAztu34MdAAMaXNJbnN0YW5jZU9mc3EAfgAMlbb7inQABjxpbml0PnNxAH4ADE+oT9R0AANtYXhzcQB+AAySJgo+dAAFYXBwbHlzcQB+AAxjHDi1dAACPT1zcQB+AAx3DAjpdAAFY2xvbmVzcQB+AAw74i8XdAAGJGluaXQkc3EAfgAM2/ppLHQABWNoYXJ0c3EAfgAMu0TkknQADmNvcHkkZGVmYXVsdCQzc3EAfgAMyfUfB3QABGNvcHlzcQB+AAwjOlkBdAAIdG9TdHJpbmdzcQB+AAzSLAoqdAAIU2VnbWVudHNzcQB+AAyE82A8dAACIT1zcQB+AAwIxkIXdAAGVmFsdWVzc3EAfgAMhuj5unQACGdldENsYXNzc3EAfgAMzC4uPHQADmNvcHkkZGVmYXVsdCQxc3EAfgAM6ssO03QAAm5lc3EAfgAMmxM8WHQAAmVxc3EAfgAMHmvbW3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADKvVfkR0AAIjI3NxAH4ADJ8SFn50AAhmaW5hbGl6ZXNxAH4ADMRGsQl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADFE3qbV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AHXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AiHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBxTAAJaW5oZXJpdGVkcQB+AHFMAAdwYXJlbnRzcQB+AHF4cQB+AI1zcQB+AIh1cQB+AGwAAAAAc3EAfgCIdXEAfgBsAAAAAHNxAH4AiHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ApXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ApnNxAH4AmXQAA0FueXNxAH4AnXNxAH4AoHVxAH4AowAAAAJzcQB+AKV0AAVzY2FsYXEAfgCsdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV5oBNsYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSHIuJqmAI3Fx98DTjQDQT1kyF+rg==
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+E/IrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9uPFBnQABm5vdGlmeXNxAH4ADE5NRxt0AAR3YWl0c3EAfgAMglauS3QABmlkUGxvdHNxAH4ADGBKIyZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMogLr93QABmVxdWFsc3NxAH4ADC1Uo1p0AAtpbnRlcnZhbE51bXNxAH4ADIt3LQh0AAxhc0luc3RhbmNlT2ZzcQB+AAzyefQMdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxavwOrdAAGcmVzdWx0c3EAfgAMSCbSKHQADHN5bmNocm9uaXplZHNxAH4ADA6YMEZ0AAJzY3NxAH4ADBL6zad0AA0kaXNJbnN0YW5jZU9mc3EAfgAMni3Ks3QABG1haW5zcQB+AAxdKuzzdAAJbm90aWZ5QWxsc3EAfgAMZ0/S0HQABGNvbmZzcQB+AAyoh3JZdAAMaXNJbnN0YW5jZU9mc3EAfgAMwM6hlnQAB2NvbE5hbWVzcQB+AAxFQDFhdAACPT1zcQB+AAwyEDTYdAAKc3FsQ29udGV4dHNxAH4ADDHYpZZ0AAVjbG9uZXNxAH4ADJ4p2CV0AAYkaW5pdCRzcQB+AAwcWUQedAACZGZzcQB+AAzTz3V7dAAETWFpbnNxAH4ADCnaold0AAh0b1N0cmluZ3NxAH4ADEEFGbB0AARhcmdzc3EAfgAMKN2sTXQAAiE9c3EAfgAM9o72unQACGdldENsYXNzc3EAfgAM00tGsHQAAm5lc3EAfgAMKvC2oHQACWlucHV0RGF0YXNxAH4ADP/Rprx0AAJlcXNxAH4ADBF/dyt0AAtkZWxheWVkSW5pdHNxAH4ADHWHvIJ0AAIjI3NxAH4ADAzrfp90AAhmaW5hbGl6ZXNxAH4ADNTwSkd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AO3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHlzcQB+AHR1cQB+AFYAAAAAc3EAfgB0dXEAfgBWAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBccQB+AGV1cQB+AGYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCDeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHh0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AeHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AaABxAH4AJ3VxAH4AagAAAABzcQB+AJB0AARVbml0cQB+AJZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCDeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBtdAAFUGxhaW5xAH4AP3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AkVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AeHNxAH4AkHQABUFycmF5cQB+AJZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AkHQABlN0cmluZ3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAAEbGFuZ3EAfgChc3EAfgB0dXEAfgC4AAAABHNxAH4AkHQAA0FwcHEAfgCWc3EAfgCQdAALRGVsYXllZEluaXRxAH4AlnNxAH4AkHQABk9iamVjdHEAfgC8c3EAfgCQdAADQW55cQB+AJZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmgE2xh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L2hvbWUvYWRyaS9Fc2NyaXRvcmlvL3RmZy9oaXN0b2dyYW0vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNEMFsSpizfAlaLlC8MEBI1yoBfA
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtcF6VAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtVaUV3QABm5vdGlmeXNxAH4ADDuC2Bp0AAR3YWl0c3EAfgAMXGWLanQADSRhc0luc3RhbmNlT2ZzcQB+AAwXDHVwdAALTWFuYWdlRmlsZXNzcQB+AAxjBaFNdAAGZXF1YWxzc3EAfgAM/AF53nQADGFzSW5zdGFuY2VPZnNxAH4ADO+SnWl0AAdzYXZlQ1NWc3EAfgAM08GTfXQADHN5bmNocm9uaXplZHNxAH4ADLdjCWx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMamvvtnQACHNhdmVKU09Oc3EAfgAMELSaiXQACGxvYWRKU09Oc3EAfgAMz2w3JHQACW5vdGlmeUFsbHNxAH4ADO6pNWR0AAxpc0luc3RhbmNlT2ZzcQB+AAyS+cpIdAACPT1zcQB+AAzzh+pmdAAFY2xvbmVzcQB+AAxS+Ti/dAAHbG9hZENTVnNxAH4ADIMYc1d0AAh0b1N0cmluZ3NxAH4ADFL+WBV0AAIhPXNxAH4ADNnGm8R0AAhnZXRDbGFzc3NxAH4ADNNnmN90AAJuZXNxAH4ADMZF/3d0ABFzYXZlSlNPTmludG9NT05HT3NxAH4ADOzIGFd0AAJlcXNxAH4ADLRQ4rV0AAIjI3NxAH4ADAlSVsl0AAhmaW5hbGl6ZXNxAH4ADLYdYul0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AFXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGVzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXEAfgBEAAAAAHNxAH4AYHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnNxAH4AcXQAA0FueXNxAH4AdXNxAH4AeHVxAH4AewAAAAJzcQB+AH10AAVzY2FsYXEAfgCEdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV5oBNsYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQXQcQ+AVmRRSZDdlYtdGv9e6kc6A==
+external apis:
+0 items
+source infos:
+3 items
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Histogram.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/histogram/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/home/adri/Escritorio/tfg/histogram/src/main/scala/ManageFiles.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWafh/EZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvcHJ1ZWJhVkJEL2hpc3RvZ3JhbS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWnDXnqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXRkFlct1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXTJD5gJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXTeWTKh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXalS15B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXjOsjaZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmgE2xh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2FkcmkvRXNjcml0b3Jpby90ZmcvaGlzdG9ncmFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
