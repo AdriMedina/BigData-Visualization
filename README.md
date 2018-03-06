@@ -1,6 +1,4 @@
-# BigData-Visualization
-
-## Big Data Visualization with Spark Node.JS and MongoDB
+# Herramienta de Visualizaciones Gráficas con Spark, Hadoop, Node.JS y MongoDB
 
 
 Este proyecto es mi Trabajo de Fin de Grado dirigido por José Manuél Benitez Sánchez y Manuel Jesús Parra Royón, profesorado de la Universidad de Granada.
