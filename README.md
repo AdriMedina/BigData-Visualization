@@ -9,6 +9,9 @@ Este proyecto consiste en una biblioteca capaz de generar representaciones gráf
 - Dotar a la herramienta de una API RESTful, que permite obtener información de cada una de las funciones que se han implementado, con la posibilidad de ejecutarlas de forma individual.
 - Construir una interfaz web que permita el acceso y la utilización de la herramienta de manera sencilla, eficaz y accesible desde cualquier plataforma o dispositivo.
 
+Para conocer en profundidad el funcionamiento, diseño y ejecución de la biblioteca, puede consultar la documentación que se encuentra en el repositorio: 
+https://github.com/AdriMedina/BigData-Visualization-Doc
+
 ## Computación en Big Data
 
 Las herramientas utilizadas sobre las que se implementa la biblioteca para realizar el computo y almacenamiento sobre los datos, guardado de los resultados obtenidos y conexión con la interfaz web son:
@@ -37,8 +40,30 @@ En el nivel intermedio o de comunicación, es donde se realiza toda la comunicac
 
 Por último, en el nivel inferior o de procesamiento, se aplican los esquemas de agrupación y las técnicas de reducción elegidas para cada uno de los gráficos disponibles en la API. En este nivel es donde se alojan las herramientas Hadoop, Spark y MongoDB. Cada una de ellas tiene su propia función dentro del nivel, siendo así Hadoop el encargado de almacenar y mantener los datos del sistema, Spark el encargado de coger el fichero del HDFS, procesar los datos aplicando los esquemas de agrupación indicados, y por parte de MongoDB, guardar el resultado enviado del procesado de Spark, manteniendo información acerca del estado de cada uno de los resultados, como la fecha de inicio de solicitud, o finalizado el cálculo, además de información acerca de si se está ejecutando en un instante preciso o ha finalizado. Esto sirve de ayuda para conocer si se está procesando ya un gráfico con unos parámetros y fichero de datos concreto, o, si se vuelve a solicitar, no volver a realizar el cálculo, sino esperar a que ese termine para devolver el resultado a la capa de comunicación.
 
-## Interfaz y ejemplos gráficos
+## Métodos de visualización empleados e interfaz
 
+A continuación, se puede apreciar un listado con todos los métodos de visualización disponibles en la API:
+- Histograma
+- Boxplot
+- Scatterplot
+- Heatmap
+- Bubble Chart
+- Scatterplot Matrix
+- Pie Chart
+- Line Chart
+- Stacked Area Chart
+- Bar Chart
+
+Como ya se ha explicado anteriormente, todo el sistema está desarrollado para funcionar sobre conjuntos de datos 'Big Data'. Esto conlleva que los cálculos sobre esos conjuntos de datos sea realmente la dificultad que tiene este proyecto. Para obtener una representación gráfica, por ejemplo un histograma o un boxplot, es necesario obtener unos valores calculados como máximo, mínimo, cuartiles, agrupaciones, conteo de datos, etc. Aquí es donde realmente está la complejidad de representar un histograma en comparación con otras herramientas clásicas, sobre conjuntos de datos de menor tamaño.
+
+Spark provee funcionalidad que permite calcular estas operaciones o parte de ellas de manera rápida y eficaz, pero lo interesante de este proyecto es la utilización de estas herramientas, para obtener los valores y a continuación, crear un gráfico representativo de lo que ocurre con el conjunto 'Big Data'.
+
+En las siguientes imágenes se pueden apreciar algunas capturas de la interfaz web desde la que se utilizan las distintas funciones de la biblioteca:
+
+![Interfaz-Inicial](https://648b635f-a-62cb3a1a-s-sites.googlegroups.com/site/amedinag13/home-1/interfaz_inicial.png?attachauth=ANoY7coY8CWtOnr8m10EYul3YhTLs-DcXBnublvV-SLRlcKvqHRwUbbGYWegsdzvJlh60dZm9v1f56CX2X1HXDPLPifGXaD3-T7IXlhONgv3mwrS1HATOKOeuZKgSWTAdBDEeP9z6-ds-vu1szxltxYZTvT7_Hl_Oym86TYA0WmFdb6X714codWu7AZPnLnO4owhI4sokVudDb03nZPoVc1eYsd4B_tbUYlzIWoVW89R--WHhE004uI%3D&attredirects=0)
+
+
+![Interfaz-Inicial2](https://648b635f-a-62cb3a1a-s-sites.googlegroups.com/site/amedinag13/home-1/lista_ultimos_graficos.PNG?attachauth=ANoY7cpr3Z4lj7Z4BW75_NfzeoucFYrdXbGzbjzdAfh-aWnhA6w9Rxyn3EnHMS5YFPqGYeZ75BTQraPeKHmwW_3Drh4Sg532BfZEZkyFnJyeF-YMtwXP1uGHAxAMuNAO-QXmuR6Yo_aBUdyGkp0uRyZ_ijtpHEL0N2vMBeAnsNX6OC4Fv6CHivu2YWrFs89H35cSZOjcKvWm5AhnTH1Yyeg1tp5_EWdl6cG_nSgvqNmxoN-wFNGw9n4%3D&attredirects=0)
 
 
 
