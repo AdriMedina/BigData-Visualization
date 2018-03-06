@@ -9,5 +9,29 @@ Este proyecto consiste en una biblioteca capaz de generar representaciones gráf
 - Dotar a la herramienta de una API RESTful, que permite obtener información de cada una de las funciones que se han implementado, con la posibilidad de ejecutarlas de forma individual.
 - Construir una interfaz web que permita el acceso y la utilización de la herramienta de manera sencilla, eficaz y accesible desde cualquier plataforma o dispositivo.
 
+## Computación en Big Data
+
+Las herramientas utilizadas sobre las que se implementa la biblioteca para realizar el computo y almacenamiento sobre los datos, guardado de los resultados obtenidos y conexión con la interfaz web son:
+- Hadoop
+- Spark
+- MongoDB
+- NodeJS
+
+## Lenguajes de programación y herramientas
+
+Para la implementación de la funcionalidad de la biblioteca al completo, se han utilizado los siguientes lenguajes y herramientas:
+- Scala
+- D3JS
+- HTML, CSS y JavaScript
+- Swagger
+
+## Diseño de la biblioteca
+
+
+
+
+## Interfaz y ejemplos gráficos
+
+
 
 
